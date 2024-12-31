@@ -15,9 +15,10 @@ print("\nTipos de datos por columna:")
 print(df.dtypes)
 
 # # Valores faltantes
+
+df = df.drop(columns=['sexo'])
 print("\nValores faltantes por columna:")
 print(df.isnull().sum())
-
 # # Vista previa de los primeros registros
 print("\nPrimeros registros del dataset:")
 print(df.head())

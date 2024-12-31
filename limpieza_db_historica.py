@@ -192,7 +192,7 @@ df = df.drop(columns=['sat_entorno_num', 'satisfaccion_num', 'sat_compas_num'])
 
 #Analisis y limpieza sexo
 
-
+df = df.drop(columns=['sexo'])
 
 print("\nValores faltantes por columna:")
 print(df.isnull().sum())
