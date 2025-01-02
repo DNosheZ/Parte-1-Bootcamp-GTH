@@ -196,3 +196,5 @@ df = df.drop(columns=['sexo'])
 
 print("\nValores faltantes por columna:")
 print(df.isnull().sum())
+
+df.to_csv('Data_empleados_historicos_clean.csv', index=False)
