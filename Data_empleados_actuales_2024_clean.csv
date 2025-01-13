@@ -1,201 +1,201 @@
-id,edad,viajes,departamento,distancia_casa,educacion,carrera,empleados,id,satisfaccion_entorno,sexo,implicacion,nivel_laboral,puesto,satisfaccion_trabajo,estado_civil,salario_mes,num_empresas_anteriores,mayor_edad,horas_extra,incremento_salario_porc,evaluacion,satisfaccion_companeros,horas_quincena,nivel_acciones,anos_experiencia,num_formaciones_ult_ano,conciliacion,anos_compania,anos_en_puesto,anos_desde_ult_promocion,anos_con_manager_actual
-47,37,Travel_Rarely,Research & Development,19,Universitaria,Software Engineer,1,61,Media,3.0,Alta,1,Research Scientist,Alta,Married,3022,4,Y,No,21,Muy_Alta,Baja,80,0,8,1,#N/D,1,,0,0
-519,29,Travel_Frequently,Research & Development,1,Primaria,Software Engineer,1,710,Media,1.0,Baja,1,Research Scientist,Baja,Divorced,2720,1,Y,No,18,Alta,Muy_Alta,80,1,10,5,#N/D,10,1.0,2,8
-720,30,Travel_Rarely,Research & Development,22,Universitaria,Software Engineer,1,1004,Baja,3.0,Alta,1,Research Scientist,Alta,Married,2132,4,Y,Yes,11,Alta,Media,80,0,7,2,#N/D,5,,0,1
-902,27,Travel_Rarely,Research & Development,4,Universitaria,Software Engineer,1,1259,Baja,3.0,Alta,1,Research Scientist,Alta,Divorced,2517,1,Y,No,11,Alta,Media,80,3,5,2,#N/D,5,,0,3
-1442,29,Travel_Rarely,Research & Development,1,Universitaria,Systems Engineer,1,2027,Baja,3.0,Alta,1,Research Scientist,Alta,Married,4787,9,Y,Yes,14,Alta,Media,80,3,4,3,Alta,2,,2,2
-691,40,Travel_Frequently,Research & Development,9,#N/D,Systems Engineer,1,964,Muy_Alta,3.0,Alta,1,Research Scientist,Alta,Divorced,3617,8,Y,Yes,14,Alta,Muy_Alta,80,1,3,2,Alta,1,,0,0
-398,37,Non-Travel,Research & Development,25,Universitaria,Systems Engineer,1,529,Media,3.0,Alta,2,Research Scientist,Alta,Married,4449,3,Y,Yes,15,Alta,Baja,80,2,15,2,#N/D,13,,10,7
-626,32,Travel_Rarely,Research & Development,8,Master,Systems Engineer,1,865,Alta,4.0,Muy_Alta,2,Research Scientist,Muy_Alta,Married,5175,5,Y,No,12,Alta,Alta,80,1,9,3,#N/D,5,,1,3
-1137,22,Non-Travel,Research & Development,26,Secundaria,Other,1,1605,Media,2.0,Media,1,Research Scientist,Media,Married,2814,1,Y,Yes,14,Alta,Media,80,0,4,2,#N/D,4,,1,3
-1212,34,Travel_Rarely,Research & Development,19,Secundaria,Software Engineer,1,1701,Media,2.0,Media,1,Research Scientist,Media,Married,2929,1,Y,No,12,Alta,Media,80,0,10,3,Media,10,,8,7
-317,52,Travel_Rarely,Research & Development,8,Secundaria,Systems Engineer,1,433,Alta,2.0,Media,2,Research Scientist,Media,Married,4941,2,Y,No,15,Alta,Baja,80,0,11,3,#N/D,8,2.0,7,7
-73,32,Travel_Rarely,Research & Development,1,Universitaria,Software Engineer,1,96,Media,3.0,Alta,2,Research Scientist,Alta,Married,6220,1,Y,No,17,Alta,Media,80,2,10,3,#N/D,10,,0,9
-1311,18,Non-Travel,Research & Development,14,Universitaria,Systems Engineer,1,1839,Media,3.0,Alta,1,Research Scientist,Alta,Single,1514,1,Y,No,16,Alta,Alta,80,0,0,4,#N/D,0,,0,0
-157,58,Travel_Rarely,Research & Development,9,Secundaria,Systems Engineer,1,214,Media,2.0,Media,1,Research Scientist,Media,Married,3346,4,Y,Yes,20,Muy_Alta,Media,80,1,9,3,Media,1,,0,0
-170,27,Travel_Rarely,Research & Development,17,Universitaria,Software Technologist,1,233,Alta,3.0,Alta,1,Research Scientist,Alta,Married,3058,0,Y,Yes,16,Alta,Muy_Alta,80,1,6,3,#N/D,5,,1,1
-246,33,Travel_Rarely,Research & Development,5,Secundaria,Software Engineer,1,338,Alta,2.0,Media,1,Research Scientist,Media,Married,2911,1,Y,No,13,Alta,Alta,80,1,2,2,#N/D,2,,0,2
-1101,32,Travel_Rarely,Research & Development,5,Secundaria,Software Engineer,1,1555,Muy_Alta,2.0,Media,2,Research Scientist,Media,Married,5878,3,Y,No,12,Alta,Baja,80,1,12,2,#N/D,7,2.0,2,5
-514,33,Travel_Frequently,Research & Development,3,Universitaria,Software Engineer,1,702,Baja,3.0,Alta,1,Research Scientist,Alta,Single,3348,1,Y,Yes,11,Alta,Baja,80,0,10,3,#N/D,10,,9,7
-1370,47,Non-Travel,Research & Development,14,Universitaria,Software Technologist,1,1934,Alta,3.0,Alta,2,Research Scientist,Alta,Married,5467,8,Y,No,18,Alta,Alta,80,1,16,4,#N/D,8,3.0,1,7
-603,45,Travel_Rarely,Research & Development,2,Secundaria,Software Engineer,1,834,Media,2.0,Media,1,Research Scientist,Media,Single,2274,1,Y,No,14,Alta,Muy_Alta,80,0,1,3,#N/D,1,,0,0
-17,22,Non-Travel,Research & Development,16,Master,Systems Engineer,1,22,Muy_Alta,,Muy_Alta,1,Laboratory Technician,Muy_Alta,Divorced,2935,1,Y,Yes,13,Alta,Media,80,2,1,2,Muy_Alta,1,,0,0
-1341,31,Travel_Rarely,Research & Development,20,Universitaria,Software Engineer,1,1881,Media,3.0,Alta,2,Laboratory Technician,Alta,Divorced,4197,1,Y,No,11,Alta,Baja,80,1,10,2,#N/D,10,,0,2
-399,31,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,530,Muy_Alta,2.0,Media,1,Laboratory Technician,Media,Married,2218,1,Y,No,12,Alta,Alta,80,1,4,3,#N/D,4,,3,2
-1273,22,Travel_Rarely,Research & Development,8,Universitaria,Systems Engineer,1,1783,Alta,3.0,Alta,1,Laboratory Technician,Alta,Married,2398,1,Y,Yes,17,Alta,Alta,80,0,1,6,#N/D,1,,0,0
-840,35,Travel_Rarely,Research & Development,1,Secundaria,Systems Engineer,1,1172,Muy_Alta,2.0,Media,1,Laboratory Technician,Media,Married,2258,6,Y,No,12,Alta,Media,80,1,10,2,#N/D,8,,1,7
-796,25,Travel_Rarely,Research & Development,4,#N/D,Software Technologist,1,1106,Muy_Alta,3.0,Alta,1,Laboratory Technician,Alta,Married,3691,1,Y,Yes,15,Alta,Media,80,1,7,3,#N/D,7,,5,6
-50,48,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,64,Baja,2.0,Media,3,Laboratory Technician,Media,Single,5381,9,Y,Yes,13,Alta,Muy_Alta,80,0,23,2,#N/D,1,,0,0
-587,52,Travel_Rarely,Research & Development,11,Universitaria,Software Engineer,1,813,Muy_Alta,3.0,Alta,2,Laboratory Technician,Alta,Married,3149,8,Y,No,20,Muy_Alta,Media,80,1,9,3,Alta,5,3.0,1,4
-476,24,Travel_Rarely,Research & Development,17,Secundaria,Other,1,643,Muy_Alta,,Media,1,Laboratory Technician,Media,Married,2127,1,Y,No,21,Muy_Alta,Muy_Alta,80,1,1,2,#N/D,1,,0,0
-1004,26,Travel_Rarely,Research & Development,7,Master,Other,1,1417,Alta,,Muy_Alta,1,Laboratory Technician,Muy_Alta,Single,3578,0,Y,No,12,Alta,Muy_Alta,80,0,8,2,Muy_Alta,7,4.0,0,7
-1224,26,Travel_Rarely,Research & Development,17,Primaria,Systems Engineer,1,1718,Muy_Alta,1.0,Baja,1,Laboratory Technician,Baja,Married,2305,1,Y,No,15,Alta,Alta,80,3,3,3,Baja,3,,0,2
-1147,49,Travel_Rarely,Research & Development,25,Universitaria,Software Engineer,1,1617,Alta,3.0,Alta,1,Laboratory Technician,Alta,Married,3211,1,Y,No,14,Alta,Muy_Alta,80,1,10,3,Alta,9,,1,4
-979,34,Travel_Rarely,Research & Development,29,Universitaria,Systems Engineer,1,1377,Media,3.0,Alta,2,Laboratory Technician,Alta,Married,5429,4,Y,No,13,Alta,Baja,80,2,10,1,#N/D,8,3.0,7,7
-441,42,Travel_Frequently,Research & Development,5,Universitaria,Other,1,591,Media,3.0,Alta,1,Laboratory Technician,Alta,Married,2093,4,Y,No,17,Alta,Muy_Alta,80,1,8,4,Alta,2,,2,0
-1206,26,Non-Travel,Research & Development,7,Universitaria,Systems Engineer,1,1693,Muy_Alta,3.0,Alta,1,Laboratory Technician,Alta,Single,2570,1,Y,No,20,Muy_Alta,Alta,80,0,7,5,Alta,7,,5,7
-1134,35,Travel_Rarely,Research & Development,7,Secundaria,Software Engineer,1,1601,Alta,2.0,Media,1,Laboratory Technician,Media,Married,2690,1,Y,No,18,Alta,Muy_Alta,80,1,1,5,#N/D,1,,0,1
-1272,38,Travel_Rarely,Research & Development,6,Secundaria,Other,1,1782,Muy_Alta,2.0,Media,1,Laboratory Technician,Media,Married,3702,1,Y,No,11,Alta,Media,80,1,5,3,Media,5,,0,4
-61,38,Travel_Frequently,Research & Development,29,Universitaria,Software Engineer,1,79,Muy_Alta,3.0,Alta,2,Laboratory Technician,Alta,Single,2406,1,Y,No,11,Alta,Muy_Alta,80,0,10,2,#N/D,10,3.0,9,9
-259,31,Travel_Frequently,Research & Development,29,Secundaria,Systems Engineer,1,355,Alta,2.0,Media,1,Laboratory Technician,Media,Single,3479,0,Y,No,11,Alta,Media,80,0,6,2,#N/D,5,,1,4
-1230,24,Travel_Rarely,Research & Development,29,Universitaria,Systems Engineer,1,1725,Media,3.0,Alta,1,Laboratory Technician,Alta,Divorced,3907,1,Y,No,13,Alta,Media,80,3,6,2,#N/D,6,,1,2
-689,20,Travel_Rarely,Research & Development,4,Universitaria,Software Technologist,1,960,Baja,3.0,Alta,1,Laboratory Technician,Alta,Single,2973,1,Y,No,19,Alta,Media,80,0,1,2,#N/D,1,,0,0
-1427,40,Travel_Rarely,Research & Development,1,Universitaria,Software Engineer,1,2012,Baja,3.0,Alta,1,Laboratory Technician,Alta,Married,2406,8,Y,No,19,Alta,Alta,80,2,8,3,#N/D,1,,0,0
-1459,29,Travel_Rarely,Research & Development,13,Secundaria,Other,1,2053,Muy_Alta,2.0,Media,2,Laboratory Technician,Media,Married,4025,4,Y,Yes,13,Alta,Baja,80,1,10,2,Media,4,,0,3
-1318,29,Travel_Frequently,Research & Development,20,Universitaria,Systems Engineer,1,1852,Muy_Alta,3.0,Alta,1,Laboratory Technician,Alta,Married,3812,1,Y,No,13,Alta,Media,80,0,11,3,Alta,11,,3,10
-1022,37,Non-Travel,Research & Development,5,Master,Software Technologist,1,1440,Alta,4.0,Muy_Alta,1,Laboratory Technician,Muy_Alta,Single,3500,0,Y,No,14,Alta,Baja,80,0,7,2,Muy_Alta,6,4.0,1,3
-734,22,Travel_Rarely,Research & Development,8,Primaria,Software Engineer,1,1019,Media,1.0,Baja,1,Laboratory Technician,Baja,Married,2451,1,Y,No,15,Alta,Baja,80,1,4,3,#N/D,4,,1,1
-149,19,Travel_Rarely,Research & Development,3,Universitaria,Systems Engineer,1,201,Media,3.0,Alta,1,Laboratory Technician,Alta,Single,1483,1,Y,No,14,Alta,Muy_Alta,80,0,1,3,#N/D,1,,0,0
-118,36,Travel_Rarely,Research & Development,3,Universitaria,Software Engineer,1,155,Baja,3.0,Alta,1,Laboratory Technician,Alta,Divorced,2835,5,Y,No,22,Muy_Alta,Baja,80,1,7,2,#N/D,1,,0,0
-1193,38,Travel_Frequently,Research & Development,2,Secundaria,Systems Engineer,1,1675,Muy_Alta,2.0,Media,1,Laboratory Technician,Media,Single,2440,1,Y,No,22,Muy_Alta,Media,80,0,4,3,#N/D,4,,3,3
-57,35,Travel_Rarely,Research & Development,23,Universitaria,Systems Engineer,1,75,Alta,,Alta,1,Laboratory Technician,Alta,Married,4014,3,Y,Yes,15,Alta,Alta,80,1,4,3,#N/D,2,,2,2
-597,42,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,827,Muy_Alta,2.0,Media,2,Data Scientist,Media,Married,6062,9,Y,Yes,13,Alta,Muy_Alta,80,1,8,4,Media,4,,0,2
-66,36,Travel_Frequently,Research & Development,11,#N/D,Software Engineer,1,85,Media,,#N/D,2,Data Scientist,#N/D,Single,6499,1,Y,No,13,Alta,Alta,80,0,6,3,#N/D,6,,0,3
-661,43,Travel_Rarely,Research & Development,8,Universitaria,Software Engineer,1,920,Baja,3.0,Alta,2,Data Scientist,Alta,Divorced,4765,4,Y,No,21,Muy_Alta,Alta,80,1,4,2,#N/D,1,,0,0
-575,54,Travel_Rarely,Research & Development,19,#N/D,Systems Engineer,1,799,Muy_Alta,,#N/D,2,Data Scientist,#N/D,Divorced,5485,9,Y,Yes,11,Alta,Media,80,2,9,4,#N/D,5,,1,4
-184,53,Travel_Rarely,Research & Development,13,Master,Systems Engineer,1,250,Muy_Alta,4.0,Muy_Alta,2,Data Scientist,Muy_Alta,Divorced,4450,1,Y,No,11,Alta,Alta,80,2,5,3,#N/D,4,,1,3
-1037,45,Travel_Rarely,Research & Development,29,Universitaria,Software Technologist,1,1465,Media,3.0,Alta,3,Data Scientist,Alta,Married,9380,4,Y,Yes,18,Alta,Muy_Alta,80,2,10,4,Alta,3,,1,2
-825,29,Travel_Rarely,Research & Development,8,Secundaria,Systems Engineer,1,1150,Media,2.0,Media,2,Data Scientist,Media,Married,5056,1,Y,Yes,15,Alta,Alta,80,1,10,2,#N/D,10,2.0,1,2
-1158,37,Travel_Rarely,Research & Development,19,Universitaria,Software Engineer,1,1631,Alta,3.0,Alta,2,Data Scientist,Alta,Married,5768,3,Y,No,17,Alta,Baja,80,3,9,2,Alta,4,,0,2
-472,37,Travel_Rarely,Research & Development,1,Universitaria,Software Engineer,1,635,Media,3.0,Alta,2,Data Scientist,Alta,Married,6447,6,Y,No,12,Alta,Media,80,1,8,2,#N/D,6,,4,3
-188,34,Travel_Frequently,Research & Development,2,Secundaria,Software Engineer,1,256,Muy_Alta,2.0,Media,2,Data Scientist,Media,Married,9547,1,Y,No,17,Alta,Alta,80,0,10,2,#N/D,10,,1,9
-694,33,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,969,Media,2.0,Media,2,Software Engineer,Media,Single,6949,0,Y,No,14,Alta,Baja,80,0,6,3,#N/D,5,,1,4
-356,42,Travel_Rarely,Research & Development,2,Secundaria,Other,1,477,Baja,2.0,Media,2,Software Engineer,Media,Single,6781,3,Y,No,23,Muy_Alta,Media,80,0,14,6,Media,1,,0,0
-1065,55,Travel_Rarely,Research & Development,4,Universitaria,Software Engineer,1,1501,Muy_Alta,3.0,Alta,2,Software Engineer,Alta,Married,4035,0,Y,Yes,16,Alta,Media,80,0,4,2,#N/D,3,,1,2
-1221,45,Non-Travel,Research & Development,1,Secundaria,Software Engineer,1,1712,Alta,2.0,Media,3,Software Engineer,Media,Married,10748,3,Y,No,23,Muy_Alta,Muy_Alta,80,1,25,3,#N/D,23,,14,4
-9,36,Travel_Rarely,Research & Development,27,Universitaria,Systems Engineer,1,13,Alta,3.0,Alta,2,Software Engineer,Alta,Married,5237,6,Y,No,13,Alta,Media,80,2,17,3,Alta,7,,7,7
-488,42,Travel_Rarely,Research & Development,2,Universitaria,Software Engineer,1,659,Alta,3.0,Alta,2,Software Engineer,Alta,Married,4089,1,Y,No,13,Alta,Media,80,2,10,4,#N/D,10,3.0,2,2
-690,31,Travel_Rarely,Research & Development,12,Universitaria,Systems Engineer,1,961,Muy_Alta,3.0,Alta,2,Software Engineer,Alta,Married,5855,0,Y,Yes,11,Alta,Alta,80,2,10,2,#N/D,9,,8,5
-1173,36,Travel_Rarely,Research & Development,5,#N/D,Software Engineer,1,1651,Media,3.0,Alta,3,Software Engineer,Alta,Married,8008,4,Y,No,12,Alta,Alta,80,2,9,6,Alta,3,,0,2
-189,51,Travel_Rarely,Research & Development,3,Universitaria,Systems Engineer,1,258,Muy_Alta,,Alta,4,Software Engineer,Alta,Single,13734,3,Y,No,18,Alta,Alta,80,0,21,6,#N/D,7,3.0,1,0
-767,37,Travel_Rarely,Research & Development,3,Universitaria,Other,1,1062,Muy_Alta,3.0,Alta,2,Software Engineer,Alta,Single,4107,3,Y,No,15,Alta,Baja,80,0,8,3,#N/D,4,,0,1
-22,34,Travel_Rarely,Research & Development,7,Universitaria,Software Engineer,1,28,Baja,3.0,Alta,3,Research Director,Alta,Single,11994,0,Y,No,11,Alta,Alta,80,0,13,4,#N/D,12,,2,11
-213,51,Travel_Rarely,Research & Development,8,Secundaria,Software Engineer,1,296,Media,2.0,Media,3,Research Director,Media,Married,12490,5,Y,No,16,Alta,Muy_Alta,80,2,16,5,Media,10,2.0,4,7
-770,46,Travel_Rarely,Research & Development,1,Universitaria,Systems Engineer,1,1069,Muy_Alta,,Alta,5,Research Director,Alta,Divorced,19627,9,Y,No,17,Alta,Muy_Alta,80,2,23,0,#N/D,2,,2,2
-341,38,Travel_Rarely,Research & Development,15,Secundaria,Software Engineer,1,461,Alta,2.0,Media,3,Research Director,Media,Divorced,11510,0,Y,Yes,14,Alta,Media,80,1,12,3,Media,11,,2,9
-904,48,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,1263,Muy_Alta,2.0,Media,5,Research Director,Media,Single,18265,6,Y,No,12,Alta,Alta,80,0,25,3,Media,1,,0,0
-1166,48,Travel_Frequently,Research & Development,4,Secundaria,Systems Engineer,1,1644,Alta,2.0,Media,4,CTO,Media,Married,15202,2,Y,No,25,Muy_Alta,Media,80,1,23,3,Media,2,,2,2
-759,45,Travel_Rarely,Human Resources,24,Universitaria,Medical,1,1049,Media,,Alta,1,Human Resources,Alta,Single,2177,1,Y,No,16,Alta,Baja,80,0,6,3,#N/D,6,,0,4
-1289,38,Non-Travel,Human Resources,2,Universitaria,Human Resources,1,1805,Baja,3.0,Alta,1,Human Resources,Alta,Divorced,2592,5,Y,No,13,Alta,Muy_Alta,80,3,13,3,#N/D,11,3.0,3,8
-1347,36,Travel_Frequently,Human Resources,2,#N/D,Human Resources,1,1890,Media,,Media,2,Human Resources,Media,Single,3886,1,Y,No,21,Muy_Alta,Muy_Alta,80,0,10,2,#N/D,10,,0,8
-551,39,Travel_Rarely,Human Resources,3,Master,Human Resources,1,760,Alta,4.0,Muy_Alta,2,Human Resources,Muy_Alta,Married,6389,9,Y,No,15,Alta,Alta,80,1,12,3,#N/D,8,,3,6
-1312,31,Travel_Rarely,Human Resources,18,Master,Human Resources,1,1842,Muy_Alta,4.0,Muy_Alta,1,Human Resources,Muy_Alta,Married,2956,0,Y,No,17,Alta,Alta,80,0,2,4,#N/D,1,,0,0
-310,31,Travel_Rarely,Human Resources,2,Secundaria,Human Resources,1,424,Baja,2.0,Media,2,Human Resources,Media,Married,6410,3,Y,No,12,Alta,Muy_Alta,80,0,9,1,Media,2,,1,0
-654,39,Travel_Rarely,Human Resources,2,Secundaria,Life Sciences,1,909,Muy_Alta,2.0,Media,2,Human Resources,Media,Married,5204,8,Y,No,11,Alta,Alta,80,2,13,2,#N/D,5,,0,4
-1411,25,Travel_Rarely,Human Resources,2,Universitaria,Human Resources,1,1987,Alta,3.0,Alta,1,Human Resources,#N/D,Married,2187,4,Y,No,14,Alta,Alta,80,0,6,3,#N/D,2,,1,2
-139,30,Travel_Rarely,Human Resources,9,Universitaria,Human Resources,1,184,Alta,3.0,Alta,2,Human Resources,Alta,Married,6347,0,Y,Yes,19,Alta,Muy_Alta,80,0,12,2,#N/D,11,,4,7
-1165,44,Travel_Frequently,Human Resources,1,Universitaria,Human Resources,1,1642,Baja,3.0,Alta,2,Human Resources,Alta,Married,5743,4,Y,Yes,11,Alta,Alta,80,0,14,3,#N/D,10,,0,2
-599,36,Travel_Rarely,Human Resources,13,Universitaria,Human Resources,1,829,Alta,3.0,Alta,1,Human Resources,Alta,Married,2143,4,Y,No,13,Alta,Media,80,1,8,2,#N/D,5,,0,4
-440,34,Travel_Frequently,Human Resources,23,Universitaria,Human Resources,1,590,Media,3.0,Alta,3,Human Resources,Alta,Divorced,9950,9,Y,Yes,15,Alta,Alta,80,3,11,2,Alta,3,,0,2
-943,46,Travel_Rarely,Human Resources,1,Universitaria,Life Sciences,1,1314,Muy_Alta,3.0,Alta,1,Human Resources,Alta,Single,3423,6,Y,No,12,Alta,Alta,80,0,10,3,#N/D,7,,5,7
-350,42,Travel_Rarely,Human Resources,2,Universitaria,Technical Degree,1,470,Alta,3.0,Alta,1,Human Resources,Alta,Divorced,2696,0,Y,Yes,11,Alta,Alta,80,1,4,5,#N/D,3,,1,0
-1222,24,Travel_Rarely,Human Resources,22,Primaria,Human Resources,1,1714,Muy_Alta,1.0,Baja,1,Human Resources,Baja,Married,1555,1,Y,No,11,Alta,Alta,80,1,1,2,#N/D,1,,0,0
-232,59,Travel_Rarely,Human Resources,6,Universitaria,Medical,1,321,Media,3.0,Alta,1,Human Resources,Alta,Married,2267,8,Y,No,17,Alta,Muy_Alta,80,0,7,2,Alta,2,,2,2
-1245,24,Travel_Frequently,Human Resources,10,Universitaria,Medical,1,1746,Baja,3.0,Alta,1,Human Resources,Alta,Married,2145,0,Y,No,14,Alta,Muy_Alta,80,1,3,2,#N/D,2,,2,1
-878,42,Non-Travel,Human Resources,2,Master,Medical,1,1231,Muy_Alta,4.0,Muy_Alta,2,Human Resources,Muy_Alta,Married,6272,7,Y,No,16,Alta,Baja,80,1,10,3,#N/D,4,,0,3
-1313,29,Travel_Rarely,Human Resources,13,Secundaria,Human Resources,1,1844,Baja,2.0,Media,1,Human Resources,Media,Divorced,2335,4,Y,Yes,15,Alta,Muy_Alta,80,3,4,3,#N/D,2,,2,0
-1200,44,Travel_Rarely,Human Resources,1,Universitaria,Life Sciences,1,1683,Alta,3.0,Alta,1,Human Resources,Alta,Divorced,3195,4,Y,Yes,18,Alta,Baja,80,3,8,2,#N/D,2,,2,2
-1400,38,Travel_Frequently,Human Resources,1,Universitaria,Other,1,1972,Muy_Alta,3.0,Alta,1,Human Resources,Alta,Married,2991,0,Y,Yes,11,Alta,Media,80,1,7,2,Alta,6,,1,2
-629,28,Travel_Rarely,Human Resources,8,Secundaria,Medical,1,869,Media,2.0,Media,1,Human Resources,Media,Divorced,4936,1,Y,No,13,Alta,Muy_Alta,80,1,6,6,#N/D,5,,0,4
-453,26,Travel_Frequently,Human Resources,17,Universitaria,Life Sciences,1,608,Media,,Alta,1,Human Resources,Alta,Divorced,2741,0,Y,Yes,11,Alta,Media,80,1,8,2,Alta,7,,1,0
-633,36,Travel_Rarely,Human Resources,8,Secundaria,Life Sciences,1,878,Baja,2.0,Media,1,Human Resources,Media,Married,2342,0,Y,No,21,Muy_Alta,Alta,80,0,6,3,#N/D,5,,0,3
-1064,30,Travel_Rarely,Human Resources,1,Universitaria,Life Sciences,1,1499,Alta,3.0,Alta,1,Human Resources,Alta,Divorced,2064,0,Y,No,21,Muy_Alta,Baja,80,1,6,3,Alta,5,,1,3
-956,56,Travel_Rarely,Human Resources,8,Universitaria,Life Sciences,1,1338,Muy_Alta,3.0,Alta,5,Talent Manager,Alta,Single,19717,6,Y,No,14,Alta,Baja,80,0,36,4,#N/D,7,,7,7
-1067,47,Travel_Rarely,Sales,14,Universitaria,Medical,1,1503,Alta,3.0,Alta,2,Sales Executive,Alta,Married,4591,3,Y,Yes,17,Alta,Alta,80,1,11,4,Alta,5,,1,2
-507,29,Travel_Rarely,Sales,3,Universitaria,Medical,1,690,Media,3.0,Alta,2,Sales Executive,Alta,Married,5561,1,Y,No,14,Alta,Baja,80,1,6,5,#N/D,6,3.0,1,2
-1162,35,Travel_Rarely,Sales,10,Secundaria,Medical,1,1639,Muy_Alta,2.0,Media,3,Sales Executive,Media,Married,10306,9,Y,No,17,Alta,Alta,80,0,15,3,#N/D,13,,6,0
-63,59,Travel_Rarely,Sales,25,Universitaria,Life Sciences,1,81,Baja,3.0,Alta,3,Sales Executive,Alta,Single,7637,7,Y,No,11,Alta,Muy_Alta,80,0,28,3,Alta,21,,7,9
-446,41,Non-Travel,Sales,10,Universitaria,Life Sciences,1,599,Muy_Alta,3.0,Alta,2,Sales Executive,Alta,Single,6230,7,Y,No,14,Alta,Muy_Alta,80,0,16,3,#N/D,14,,1,10
-1013,30,Travel_Rarely,Sales,7,Universitaria,Marketing,1,1428,Muy_Alta,3.0,Alta,2,Sales Executive,Alta,Divorced,4779,7,Y,No,14,Alta,Media,80,2,8,3,#N/D,3,,0,2
-1270,34,Travel_Rarely,Sales,3,Primaria,Life Sciences,1,1779,Muy_Alta,1.0,Baja,2,Sales Executive,Baja,Single,6029,5,Y,No,12,Alta,Baja,80,0,6,3,#N/D,2,,2,2
-926,43,Travel_Rarely,Sales,4,Secundaria,Marketing,1,1293,Muy_Alta,2.0,Media,3,Sales Executive,Media,Single,10231,3,Y,No,14,Alta,Muy_Alta,80,0,23,3,#N/D,21,,15,17
-951,41,Non-Travel,Sales,10,Primaria,Medical,1,1329,Alta,,Baja,2,Sales Executive,Baja,Single,6151,1,Y,No,13,Alta,Baja,80,0,19,4,Baja,19,,11,9
-467,37,Non-Travel,Sales,9,Universitaria,Medical,1,626,Baja,3.0,Alta,3,Sales Executive,Alta,Divorced,8834,1,Y,No,13,Alta,Muy_Alta,80,1,9,6,#N/D,9,,7,7
-834,34,Travel_Rarely,Sales,9,#N/D,Life Sciences,1,1163,Media,3.0,Alta,2,Sales Executive,Alta,Married,5714,1,Y,No,20,Muy_Alta,Baja,80,0,6,3,#N/D,6,,1,3
-1196,41,Travel_Rarely,Sales,23,Universitaria,Life Sciences,1,1678,Muy_Alta,3.0,Alta,3,Sales Executive,Alta,Single,7082,3,Y,Yes,16,Alta,Muy_Alta,80,0,21,2,#N/D,2,,0,2
-1448,41,Travel_Rarely,Sales,3,Secundaria,Life Sciences,1,2037,Alta,2.0,Media,2,Sales Executive,Media,Divorced,8938,2,Y,No,11,Alta,Alta,80,1,14,5,Media,5,,0,4
-625,45,Travel_Rarely,Sales,9,Universitaria,Marketing,1,864,Muy_Alta,3.0,Alta,3,Sales Executive,Alta,Divorced,10761,4,Y,Yes,12,Alta,Alta,80,1,18,2,#N/D,5,,0,2
-1453,36,Travel_Rarely,Sales,11,Secundaria,Marketing,1,2045,Media,2.0,Media,2,Sales Executive,Media,Married,6652,4,Y,No,13,Alta,Baja,80,1,8,2,Media,6,,0,0
-695,37,Travel_Rarely,Sales,1,Secundaria,Life Sciences,1,970,Baja,2.0,Media,3,Sales Executive,Media,Married,10609,5,Y,No,11,Alta,Alta,80,0,17,2,#N/D,14,2.0,11,7
-652,37,Non-Travel,Sales,19,Universitaria,Medical,1,904,Baja,3.0,Alta,3,Sales Executive,Alta,Single,7642,1,Y,Yes,13,Alta,Muy_Alta,80,0,10,2,#N/D,10,,0,9
-646,53,Travel_Rarely,Sales,8,Universitaria,Marketing,1,897,Baja,3.0,Alta,4,Sales Executive,Alta,Married,11836,5,Y,No,14,Alta,Alta,80,1,28,3,#N/D,2,,2,2
-131,50,Travel_Frequently,Sales,12,Universitaria,Marketing,1,174,Alta,3.0,Alta,3,Sales Executive,Alta,Single,9208,4,Y,No,11,Alta,Muy_Alta,80,0,16,3,Alta,2,,2,1
-48,46,Travel_Frequently,Sales,5,Universitaria,Marketing,1,62,Baja,,Alta,2,Sales Executive,Alta,Single,5772,4,Y,Yes,21,Muy_Alta,Alta,80,0,14,4,#N/D,9,,0,8
-701,53,Travel_Rarely,Sales,2,Universitaria,Medical,1,981,Alta,3.0,Alta,4,CMO,Alta,Divorced,14852,6,Y,No,13,Alta,Alta,80,1,22,3,#N/D,17,,15,2
-478,25,Travel_Rarely,Sales,13,Universitaria,Medical,1,645,Media,3.0,Alta,1,Sales Representative,Alta,Married,2096,1,Y,No,11,Alta,Alta,80,0,7,1,Alta,7,,0,6
-1197,20,Travel_Rarely,Sales,9,Universitaria,Life Sciences,1,1680,Muy_Alta,3.0,Alta,1,Sales Representative,Alta,Single,2728,1,Y,No,11,Alta,Baja,80,0,2,3,Alta,2,,0,2
-850,32,Non-Travel,Sales,2,Universitaria,Life Sciences,1,1190,Alta,3.0,Alta,1,Sales Representative,Alta,Divorced,2827,1,Y,No,12,Alta,Alta,80,3,1,3,Alta,1,3.0,0,0
-1417,31,Travel_Rarely,Sales,2,Universitaria,Life Sciences,1,1996,Baja,3.0,Alta,1,Sales Representative,Alta,Married,3067,0,Y,No,19,Alta,Alta,80,1,3,1,Alta,2,,1,2
-546,29,Travel_Rarely,Sales,10,#N/D,Life Sciences,1,749,Alta,3.0,Alta,1,Sales Representative,Alta,Single,2642,1,Y,No,11,Alta,Alta,80,0,1,6,#N/D,1,,0,0
-1436,21,Travel_Rarely,Sales,5,Universitaria,Medical,1,2021,Alta,3.0,Alta,1,Sales Representative,Alta,Single,2380,1,Y,Yes,11,Alta,Muy_Alta,80,0,2,6,#N/D,2,3.0,1,2
-754,33,Non-Travel,Sales,8,Secundaria,Life Sciences,1,1044,Media,2.0,Media,1,Sales Representative,Media,Single,2342,0,Y,No,19,Alta,Muy_Alta,80,0,3,2,#N/D,2,,2,2
-697,29,Travel_Frequently,Sales,20,Universitaria,Technical Degree,1,974,Alta,3.0,Alta,1,Sales Representative,Alta,Married,2157,1,Y,No,15,Alta,Media,80,1,3,5,Alta,3,,0,2
-970,27,Travel_Rarely,Sales,11,#N/D,Medical,1,1364,Alta,4.0,Muy_Alta,1,Sales Representative,Muy_Alta,Married,2534,8,Y,No,14,Alta,Media,80,1,5,4,#N/D,1,,0,0
-564,45,Travel_Rarely,Sales,2,Primaria,Technical Degree,1,783,Media,1.0,Baja,2,Sales Representative,Baja,Single,6632,0,Y,No,13,Alta,Baja,80,0,9,3,#N/D,8,,3,1
-470,24,Travel_Frequently,Sales,24,#N/D,Medical,1,632,Muy_Alta,3.0,Alta,1,Sales Representative,Alta,Married,2400,0,Y,No,13,Alta,Alta,80,2,3,3,#N/D,2,,2,1
-226,37,Travel_Frequently,Sales,4,Universitaria,Marketing,1,311,Baja,3.0,Alta,1,Sales Representative,Alta,Divorced,2793,4,Y,No,17,Alta,Alta,80,1,13,2,Alta,9,3.0,5,8
-1102,36,Travel_Rarely,Sales,2,Universitaria,Life Sciences,1,1556,Alta,3.0,Alta,1,Sales Representative,Alta,Single,2644,3,Y,Yes,21,Muy_Alta,Muy_Alta,80,0,7,3,#N/D,3,3.0,1,2
-347,47,Travel_Frequently,Sales,4,Universitaria,Medical,1,467,Media,3.0,Alta,2,Sales Representative,Alta,Single,2976,3,Y,No,19,Alta,Baja,80,0,5,3,#N/D,0,,0,0
-159,34,Travel_Frequently,Sales,2,Universitaria,Marketing,1,216,Alta,3.0,Alta,1,Sales Representative,Alta,Married,2231,6,Y,No,18,Alta,Muy_Alta,80,1,6,3,#N/D,4,,1,2
-292,31,Travel_Frequently,Sales,5,Universitaria,Marketing,1,399,Muy_Alta,3.0,Alta,1,Sales Representative,Alta,Divorced,2789,1,Y,No,11,Alta,Alta,80,1,2,5,#N/D,2,,2,2
-1308,38,Travel_Rarely,Sales,2,Primaria,Marketing,1,1835,Media,1.0,Baja,2,Sales Representative,Baja,Married,5405,2,Y,Yes,20,Muy_Alta,Baja,80,2,20,4,Baja,4,,0,3
-1428,32,Travel_Rarely,Sales,1,Secundaria,Medical,1,2013,Media,2.0,Media,1,Sales Representative,Media,Married,2269,0,Y,No,14,Alta,Media,80,1,3,2,#N/D,2,,2,2
-1434,52,Non-Travel,Sales,29,Universitaria,Life Sciences,1,2019,Baja,,Alta,1,Sales Representative,Alta,Divorced,3482,2,Y,No,15,Alta,Media,80,2,16,3,#N/D,9,3.0,0,0
-496,21,Travel_Rarely,Sales,22,Universitaria,Technical Degree,1,669,Alta,3.0,Alta,1,Sales Representative,Alta,Single,3447,1,Y,No,11,Alta,Alta,80,0,3,2,#N/D,3,,1,2
-362,21,Non-Travel,Sales,9,Universitaria,Medical,1,484,Baja,3.0,Alta,1,Sales Representative,Alta,Single,2610,1,Y,No,24,Muy_Alta,Alta,80,0,3,3,#N/D,3,,2,2
-539,50,Travel_Rarely,Sales,8,#N/D,Marketing,1,738,Muy_Alta,3.0,Alta,1,Sales Representative,Alta,Married,3875,7,Y,No,15,Alta,Muy_Alta,80,1,4,2,#N/D,2,,2,2
-675,31,Travel_Rarely,Sales,7,Secundaria,Life Sciences,1,941,Media,2.0,Media,1,Sales Representative,Media,Married,2329,3,Y,No,15,Alta,Media,80,0,13,2,Media,7,,5,2
-1061,24,Non-Travel,Sales,13,Universitaria,Life Sciences,1,1495,Muy_Alta,3.0,Alta,1,Sales Representative,Alta,Married,2033,1,Y,No,13,Alta,Alta,80,1,1,2,#N/D,1,,0,0
-876,20,Travel_Rarely,Sales,21,Master,Marketing,1,1226,Alta,,Muy_Alta,1,Sales Representative,Muy_Alta,Single,2678,1,Y,No,17,Alta,Muy_Alta,80,0,2,2,Muy_Alta,2,,2,2
-37,35,Travel_Rarely,Sales,2,Universitaria,Marketing,1,49,Muy_Alta,3.0,Alta,1,Sales Representative,Alta,Married,2014,1,Y,No,13,Alta,Baja,80,0,2,3,#N/D,2,,2,2
-1391,38,Travel_Rarely,Sales,1,Secundaria,Life Sciences,1,1961,Baja,2.0,Media,1,Sales Representative,Media,Single,2858,4,Y,No,14,Alta,Baja,80,0,20,3,#N/D,1,,0,0
-763,34,Travel_Rarely,Sales,10,Universitaria,Life Sciences,1,1055,Alta,3.0,Alta,1,Sales Representative,Alta,Married,2220,1,Y,Yes,19,Alta,Muy_Alta,80,1,1,2,#N/D,1,,0,0
-1059,35,Travel_Rarely,Sales,7,Universitaria,Life Sciences,1,1492,Muy_Alta,,Alta,1,Sales Representative,Alta,Married,2404,1,Y,No,13,Alta,Baja,80,1,1,3,Alta,1,,0,0
-238,32,Travel_Rarely,Sales,4,Universitaria,Life Sciences,1,330,Alta,3.0,Alta,1,Sales Representative,Alta,Married,3931,2,Y,No,11,Alta,Baja,80,1,6,5,Alta,4,,1,2
-1463,31,Non-Travel,Financial,5,Universitaria,Finanzas,1,2057,Media,3.0,Alta,2,Accountant,Alta,Single,9936,0,Y,No,19,Alta,Media,80,0,10,2,#N/D,9,3.0,1,7
-1372,39,Travel_Rarely,Financial,9,Universitaria,Finanzas,1,1936,Baja,3.0,Alta,2,Accountant,Alta,Married,5151,1,Y,No,25,Muy_Alta,Muy_Alta,80,1,10,3,#N/D,10,,7,9
-59,37,Travel_Rarely,Financial,1,#N/D,Ingeniería Administrativa,1,77,Baja,2.0,Media,2,Accountant,Media,Divorced,5993,1,Y,No,18,Alta,Alta,80,1,7,2,#N/D,7,,0,7
-578,38,Travel_Frequently,Financial,2,Master,Ingeniería Administrativa,1,803,Baja,4.0,Muy_Alta,2,Accountant,Muy_Alta,Single,5980,6,Y,Yes,12,Alta,Muy_Alta,80,0,17,2,#N/D,15,,4,12
-1307,28,Travel_Rarely,Financial,1,Universitaria,Finanzas,1,1834,Alta,3.0,Alta,1,Financial Analyst,Alta,Married,3591,1,Y,No,25,Muy_Alta,Alta,80,1,3,3,#N/D,3,,1,2
-193,43,Non-Travel,Financial,7,Master,Finanzas,1,262,Muy_Alta,4.0,Muy_Alta,1,Financial Analyst,Muy_Alta,Divorced,2089,4,Y,No,14,Alta,Muy_Alta,80,3,7,3,#N/D,5,,2,2
-881,32,Travel_Frequently,Financial,2,Universitaria,Ingeniería Administrativa,1,1235,Muy_Alta,3.0,Alta,2,Financial Analyst,Alta,Single,4998,4,Y,Yes,14,Alta,Muy_Alta,80,0,10,2,#N/D,8,3.0,0,7
-26,32,Travel_Frequently,Financial,16,Universitaria,Ingeniería Administrativa,1,33,Media,1.0,Baja,1,Financial Analyst,#N/D,Single,3919,1,Y,Yes,22,Muy_Alta,Media,80,0,10,5,#N/D,10,,6,7
-125,26,Travel_Rarely,Financial,6,Universitaria,Other,1,164,Alta,2.0,Media,1,Financial Analyst,Media,Married,2368,1,Y,No,19,Alta,Alta,80,0,5,3,#N/D,5,,4,3
-798,33,Travel_Rarely,Financial,25,Universitaria,Finanzas,1,1108,Baja,2.0,Media,1,Financial Analyst,Media,Single,2313,4,Y,Yes,20,Muy_Alta,Media,80,0,5,0,#N/D,2,,2,2
-294,37,Travel_Frequently,Financial,9,Universitaria,Finanzas,1,403,Media,3.0,Alta,1,Financial Analyst,Alta,Married,2326,1,Y,Yes,12,Alta,Alta,80,3,4,3,#N/D,4,,1,2
-38,36,Travel_Rarely,Financial,5,Universitaria,Ingeniería Administrativa,1,51,Media,2.0,Media,1,Financial Analyst,Media,Married,3419,9,Y,Yes,14,Alta,Muy_Alta,80,1,6,3,#N/D,1,,0,0
-1315,36,Travel_Rarely,Financial,2,Universitaria,Other,1,1847,Muy_Alta,3.0,Alta,2,Financial Analyst,Alta,Married,6962,4,Y,Yes,22,Muy_Alta,Muy_Alta,80,1,15,2,#N/D,1,,0,0
-242,41,Travel_Rarely,Financial,19,Universitaria,Ingeniería Administrativa,1,334,Alta,3.0,Alta,2,Financial Analyst,Alta,Divorced,3072,2,Y,No,16,Alta,Baja,80,2,17,2,#N/D,1,,0,0
-83,38,Non-Travel,Financial,6,Universitaria,Finanzas,1,107,Media,1.0,Baja,2,Financial Analyst,Baja,Divorced,5329,7,Y,Yes,12,Alta,Muy_Alta,80,3,17,3,#N/D,13,,1,9
-160,22,Travel_Rarely,Financial,19,Universitaria,Finanzas,1,217,Alta,3.0,Alta,1,Financial Analyst,Alta,Married,2323,1,Y,No,24,Muy_Alta,Baja,80,2,2,6,Alta,2,3.0,2,2
-1457,40,Travel_Rarely,Financial,2,Universitaria,Finanzas,1,2051,Alta,3.0,Alta,1,Financial Analyst,Alta,Married,2001,2,Y,No,14,Alta,Media,80,3,20,2,#N/D,5,3.0,0,2
-579,34,Travel_Rarely,Financial,2,Universitaria,Finanzas,1,804,Alta,2.0,Media,1,Financial Analyst,Media,Single,4381,1,Y,No,11,Alta,Alta,80,0,6,3,#N/D,6,,1,3
-1141,30,Travel_Rarely,Financial,7,Universitaria,Finanzas,1,1609,Media,2.0,Media,1,Financial Analyst,Media,Married,2141,1,Y,No,12,Alta,Media,80,1,6,3,Media,6,,1,1
-636,35,Travel_Frequently,Financial,25,Universitaria,Ingeniería Administrativa,1,881,Muy_Alta,3.0,Alta,1,Financial Analyst,Alta,Divorced,2022,1,Y,Yes,19,Alta,Baja,80,1,10,3,#N/D,10,,7,8
-1335,39,Travel_Rarely,Financial,19,Universitaria,Other,1,1871,Muy_Alta,,Alta,2,Financial Analyst,Alta,Divorced,3902,8,Y,No,14,Alta,Media,80,3,7,2,#N/D,2,,2,2
-175,56,Travel_Rarely,Financial,8,Universitaria,Ingeniería Administrativa,1,241,Alta,,Alta,1,Financial Analyst,Alta,Divorced,4257,4,Y,Yes,18,Alta,Alta,80,1,19,3,#N/D,2,,2,2
-783,41,Travel_Rarely,Financial,7,Master,Contaduría,1,1085,Media,4.0,Muy_Alta,1,Financial Analyst,Muy_Alta,Married,3376,1,Y,No,13,Alta,Alta,80,0,10,3,#N/D,10,,0,8
-1320,42,Non-Travel,Financial,10,Universitaria,Contaduría,1,1854,Alta,,Alta,1,Financial Analyst,Alta,Married,2936,3,Y,No,22,Muy_Alta,Media,80,2,10,1,#N/D,6,3.0,3,3
-727,18,Non-Travel,Financial,5,Universitaria,Ingeniería Administrativa,1,1012,Media,3.0,Alta,1,Financial Analyst,Alta,Single,1051,1,Y,No,15,Alta,Muy_Alta,80,0,0,2,#N/D,0,,0,0
-1069,28,Travel_Rarely,Financial,1,Universitaria,Ingeniería Administrativa,1,1506,Baja,2.0,Media,1,Financial Analyst,Media,Divorced,1563,1,Y,No,14,Alta,Muy_Alta,80,1,1,2,#N/D,1,,0,0
-474,24,Travel_Rarely,Financial,23,Master,Finanzas,1,639,Media,4.0,Muy_Alta,1,Financial Analyst,Muy_Alta,Married,2725,1,Y,Yes,11,Alta,Media,80,2,6,3,Muy_Alta,6,4.0,1,4
-922,44,Travel_Rarely,Financial,4,Master,Ingeniería Administrativa,1,1288,Alta,4.0,Muy_Alta,5,CFO,Muy_Alta,Divorced,19190,1,Y,No,14,Alta,Muy_Alta,80,2,26,4,#N/D,25,11.0,14,13
-671,34,Travel_Rarely,Financial,10,Universitaria,Ingeniería Administrativa,1,934,Media,3.0,Alta,1,Treasurer,Alta,Divorced,2008,1,Y,No,14,Alta,Media,80,2,1,3,#N/D,1,,1,0
-682,32,Non-Travel,Financial,1,Universitaria,Ingeniería Administrativa,1,951,Alta,2.0,Media,1,Treasurer,Media,Married,2332,6,Y,No,20,Muy_Alta,Alta,80,0,5,3,#N/D,3,,0,2
-756,32,Non-Travel,Financial,29,#N/D,Finanzas,1,1046,Muy_Alta,,Alta,1,Treasurer,Alta,Single,4025,9,Y,No,12,Alta,Media,80,0,10,2,#N/D,8,3.0,7,7
-643,42,Travel_Rarely,Financial,3,#N/D,Ingeniería Administrativa,1,894,Alta,,Muy_Alta,2,Treasurer,Muy_Alta,Married,5231,2,Y,Yes,13,Alta,Media,80,1,17,1,#N/D,5,,1,3
-744,37,Travel_Rarely,Financial,11,#N/D,Finanzas,1,1033,Baja,1.0,Baja,2,Coordinator,Baja,Married,4777,5,Y,No,15,Alta,Baja,80,0,15,2,#N/D,1,1.0,0,0
-928,44,Travel_Rarely,Financial,15,Universitaria,Finanzas,1,1295,Baja,3.0,Alta,3,Coordinator,Alta,Married,7978,1,Y,No,11,Alta,Muy_Alta,80,1,10,2,Alta,10,,0,5
-471,38,Travel_Rarely,Financial,10,Universitaria,Finanzas,1,634,Alta,3.0,Alta,2,Coordinator,#N/D,Married,9824,3,Y,No,19,Alta,Alta,80,1,18,4,Alta,1,3.0,0,0
-735,48,Travel_Rarely,Financial,6,Universitaria,Ingeniería Administrativa,1,1022,Baja,,Media,2,Coordinator,Media,Single,4240,2,Y,No,13,Alta,Muy_Alta,80,0,19,0,#N/D,2,2.0,2,2
-715,33,Travel_Frequently,Financial,1,Master,Other,1,998,Alta,4.0,Muy_Alta,2,Coordinator,Muy_Alta,Married,5488,1,Y,Yes,13,Alta,Baja,80,1,6,2,#N/D,6,,1,2
-1203,53,Travel_Rarely,Financial,24,Master,Finanzas,1,1689,Media,4.0,Muy_Alta,3,Coordinator,Muy_Alta,Married,7005,3,Y,No,15,Alta,Alta,80,0,11,2,#N/D,4,,1,2
-465,46,Travel_Frequently,Financial,18,Universitaria,Finanzas,1,624,Baja,3.0,Alta,3,Coordinator,#N/D,Married,10527,5,Y,No,11,Alta,Muy_Alta,80,0,28,3,#N/D,2,,1,2
-1183,36,Travel_Rarely,Financial,3,Master,Ingeniería Administrativa,1,1664,Muy_Alta,4.0,Muy_Alta,2,Coordinator,Muy_Alta,Divorced,6842,6,Y,No,20,Muy_Alta,Baja,80,1,13,3,#N/D,5,,0,4
-790,33,Travel_Rarely,Financial,5,#N/D,Ingeniería Administrativa,1,1099,Muy_Alta,2.0,Media,3,Coordinator,Media,Divorced,7119,4,Y,No,15,Alta,Alta,80,1,9,2,#N/D,3,,1,2
-650,43,Travel_Frequently,Financial,1,Universitaria,Ingeniería Administrativa,1,902,Muy_Alta,3.0,Alta,2,Coordinator,Alta,Married,5562,4,Y,No,13,Alta,Media,80,1,12,2,#N/D,5,,2,2
-1264,55,Travel_Rarely,Financial,2,Universitaria,Finanzas,1,1770,Alta,2.0,Media,5,Financial Director,Media,Married,19038,8,Y,No,12,Alta,Media,80,3,34,2,Media,1,,0,0
-894,54,Travel_Rarely,Financial,3,Universitaria,Ingeniería Administrativa,1,1250,Muy_Alta,3.0,Alta,4,Financial Director,Alta,Married,17779,3,Y,No,14,Alta,Baja,80,0,36,2,#N/D,10,,0,9
-78,37,Travel_Rarely,Financial,7,Universitaria,Finanzas,1,102,Baja,3.0,Alta,3,Financial Director,Alta,Single,13664,4,Y,No,13,Alta,Baja,80,0,16,3,Alta,5,,0,2
-95,54,Travel_Rarely,Financial,2,#N/D,Contaduría,1,126,Baja,,Alta,3,Financial Director,Alta,Married,13549,9,Y,No,12,Alta,Baja,80,1,16,5,#N/D,4,,0,3
-869,46,Travel_Rarely,Financial,15,#N/D,Ingeniería Administrativa,1,1217,Muy_Alta,3.0,Alta,5,Financial Director,Alta,Married,19081,5,Y,No,11,Alta,Baja,80,1,25,2,#N/D,4,,0,3
+edad,viajes,departamento,distancia_casa,educacion,carrera,empleados,satisfaccion_entorno,implicacion,nivel_laboral,puesto,satisfaccion_trabajo,estado_civil,salario_mes,num_empresas_anteriores,mayor_edad,horas_extra,incremento_salario_porc,evaluacion,satisfaccion_companeros,horas_quincena,nivel_acciones,anos_experiencia,num_formaciones_ult_ano,anos_compania,anos_desde_ult_promocion,anos_con_manager_actual,abandono
+37,Travel_Rarely,Research & Development,19,Universitaria,Software Engineer,1,Media,Alta,1,Research Scientist,Alta,Married,3022,4,Y,No,21,Muy_Alta,Baja,80,0,8,1,1,0,0,No
+29,Travel_Frequently,Research & Development,1,Primaria,Software Engineer,1,Media,Baja,1,Research Scientist,Baja,Divorced,2720,1,Y,No,18,Alta,Muy_Alta,80,1,10,5,10,2,8,No
+30,Travel_Rarely,Research & Development,22,Universitaria,Software Engineer,1,Baja,Alta,1,Research Scientist,Alta,Married,2132,4,Y,Yes,11,Alta,Media,80,0,7,2,5,0,1,No
+27,Travel_Rarely,Research & Development,4,Universitaria,Software Engineer,1,Baja,Alta,1,Research Scientist,Alta,Divorced,2517,1,Y,No,11,Alta,Media,80,3,5,2,5,0,3,No
+29,Travel_Rarely,Research & Development,1,Universitaria,Systems Engineer,1,Baja,Alta,1,Research Scientist,Alta,Married,4787,9,Y,Yes,14,Alta,Media,80,3,4,3,2,2,2,No
+40,Travel_Frequently,Research & Development,9,#N/D,Systems Engineer,1,Muy_Alta,Alta,1,Research Scientist,Alta,Divorced,3617,8,Y,Yes,14,Alta,Muy_Alta,80,1,3,2,1,0,0,No
+37,Non-Travel,Research & Development,25,Universitaria,Systems Engineer,1,Media,Alta,2,Research Scientist,Alta,Married,4449,3,Y,Yes,15,Alta,Baja,80,2,15,2,13,10,7,No
+32,Travel_Rarely,Research & Development,8,Master,Systems Engineer,1,Alta,Muy_Alta,2,Research Scientist,Muy_Alta,Married,5175,5,Y,No,12,Alta,Alta,80,1,9,3,5,1,3,No
+22,Non-Travel,Research & Development,26,Secundaria,Other,1,Media,Media,1,Research Scientist,Media,Married,2814,1,Y,Yes,14,Alta,Media,80,0,4,2,4,1,3,No
+34,Travel_Rarely,Research & Development,19,Secundaria,Software Engineer,1,Media,Media,1,Research Scientist,Media,Married,2929,1,Y,No,12,Alta,Media,80,0,10,3,10,8,7,No
+52,Travel_Rarely,Research & Development,8,Secundaria,Systems Engineer,1,Alta,Media,2,Research Scientist,Media,Married,4941,2,Y,No,15,Alta,Baja,80,0,11,3,8,7,7,No
+32,Travel_Rarely,Research & Development,1,Universitaria,Software Engineer,1,Media,Alta,2,Research Scientist,Alta,Married,6220,1,Y,No,17,Alta,Media,80,2,10,3,10,0,9,No
+18,Non-Travel,Research & Development,14,Universitaria,Systems Engineer,1,Media,Alta,1,Research Scientist,Alta,Single,1514,1,Y,No,16,Alta,Alta,80,0,0,4,0,0,0,No
+58,Travel_Rarely,Research & Development,9,Secundaria,Systems Engineer,1,Media,Media,1,Research Scientist,Media,Married,3346,4,Y,Yes,20,Muy_Alta,Media,80,1,9,3,1,0,0,No
+27,Travel_Rarely,Research & Development,17,Universitaria,Software Technologist,1,Alta,Alta,1,Research Scientist,Alta,Married,3058,0,Y,Yes,16,Alta,Muy_Alta,80,1,6,3,5,1,1,No
+33,Travel_Rarely,Research & Development,5,Secundaria,Software Engineer,1,Alta,Media,1,Research Scientist,Media,Married,2911,1,Y,No,13,Alta,Alta,80,1,2,2,2,0,2,No
+32,Travel_Rarely,Research & Development,5,Secundaria,Software Engineer,1,Muy_Alta,Media,2,Research Scientist,Media,Married,5878,3,Y,No,12,Alta,Baja,80,1,12,2,7,2,5,No
+33,Travel_Frequently,Research & Development,3,Universitaria,Software Engineer,1,Baja,Alta,1,Research Scientist,Alta,Single,3348,1,Y,Yes,11,Alta,Baja,80,0,10,3,10,9,7,No
+47,Non-Travel,Research & Development,14,Universitaria,Software Technologist,1,Alta,Alta,2,Research Scientist,Alta,Married,5467,8,Y,No,18,Alta,Alta,80,1,16,4,8,1,7,No
+45,Travel_Rarely,Research & Development,2,Secundaria,Software Engineer,1,Media,Media,1,Research Scientist,Media,Single,2274,1,Y,No,14,Alta,Muy_Alta,80,0,1,3,1,0,0,No
+22,Non-Travel,Research & Development,16,Master,Systems Engineer,1,Muy_Alta,Muy_Alta,1,Laboratory Technician,Muy_Alta,Divorced,2935,1,Y,Yes,13,Alta,Media,80,2,1,2,1,0,0,No
+31,Travel_Rarely,Research & Development,20,Universitaria,Software Engineer,1,Media,Alta,2,Laboratory Technician,Alta,Divorced,4197,1,Y,No,11,Alta,Baja,80,1,10,2,10,0,2,No
+31,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,Muy_Alta,Media,1,Laboratory Technician,Media,Married,2218,1,Y,No,12,Alta,Alta,80,1,4,3,4,3,2,No
+22,Travel_Rarely,Research & Development,8,Universitaria,Systems Engineer,1,Alta,Alta,1,Laboratory Technician,Alta,Married,2398,1,Y,Yes,17,Alta,Alta,80,0,1,6,1,0,0,No
+35,Travel_Rarely,Research & Development,1,Secundaria,Systems Engineer,1,Muy_Alta,Media,1,Laboratory Technician,Media,Married,2258,6,Y,No,12,Alta,Media,80,1,10,2,8,1,7,No
+25,Travel_Rarely,Research & Development,4,#N/D,Software Technologist,1,Muy_Alta,Alta,1,Laboratory Technician,Alta,Married,3691,1,Y,Yes,15,Alta,Media,80,1,7,3,7,5,6,No
+48,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,Baja,Media,3,Laboratory Technician,Media,Single,5381,9,Y,Yes,13,Alta,Muy_Alta,80,0,23,2,1,0,0,No
+52,Travel_Rarely,Research & Development,11,Universitaria,Software Engineer,1,Muy_Alta,Alta,2,Laboratory Technician,Alta,Married,3149,8,Y,No,20,Muy_Alta,Media,80,1,9,3,5,1,4,No
+24,Travel_Rarely,Research & Development,17,Secundaria,Other,1,Muy_Alta,Media,1,Laboratory Technician,Media,Married,2127,1,Y,No,21,Muy_Alta,Muy_Alta,80,1,1,2,1,0,0,No
+26,Travel_Rarely,Research & Development,7,Master,Other,1,Alta,Muy_Alta,1,Laboratory Technician,Muy_Alta,Single,3578,0,Y,No,12,Alta,Muy_Alta,80,0,8,2,7,0,7,No
+26,Travel_Rarely,Research & Development,17,Primaria,Systems Engineer,1,Muy_Alta,Baja,1,Laboratory Technician,Baja,Married,2305,1,Y,No,15,Alta,Alta,80,3,3,3,3,0,2,No
+49,Travel_Rarely,Research & Development,25,Universitaria,Software Engineer,1,Alta,Alta,1,Laboratory Technician,Alta,Married,3211,1,Y,No,14,Alta,Muy_Alta,80,1,10,3,9,1,4,No
+34,Travel_Rarely,Research & Development,29,Universitaria,Systems Engineer,1,Media,Alta,2,Laboratory Technician,Alta,Married,5429,4,Y,No,13,Alta,Baja,80,2,10,1,8,7,7,No
+42,Travel_Frequently,Research & Development,5,Universitaria,Other,1,Media,Alta,1,Laboratory Technician,Alta,Married,2093,4,Y,No,17,Alta,Muy_Alta,80,1,8,4,2,2,0,No
+26,Non-Travel,Research & Development,7,Universitaria,Systems Engineer,1,Muy_Alta,Alta,1,Laboratory Technician,Alta,Single,2570,1,Y,No,20,Muy_Alta,Alta,80,0,7,5,7,5,7,No
+35,Travel_Rarely,Research & Development,7,Secundaria,Software Engineer,1,Alta,Media,1,Laboratory Technician,Media,Married,2690,1,Y,No,18,Alta,Muy_Alta,80,1,1,5,1,0,1,No
+38,Travel_Rarely,Research & Development,6,Secundaria,Other,1,Muy_Alta,Media,1,Laboratory Technician,Media,Married,3702,1,Y,No,11,Alta,Media,80,1,5,3,5,0,4,No
+38,Travel_Frequently,Research & Development,29,Universitaria,Software Engineer,1,Muy_Alta,Alta,2,Laboratory Technician,Alta,Single,2406,1,Y,No,11,Alta,Muy_Alta,80,0,10,2,10,9,9,No
+31,Travel_Frequently,Research & Development,29,Secundaria,Systems Engineer,1,Alta,Media,1,Laboratory Technician,Media,Single,3479,0,Y,No,11,Alta,Media,80,0,6,2,5,1,4,No
+24,Travel_Rarely,Research & Development,29,Universitaria,Systems Engineer,1,Media,Alta,1,Laboratory Technician,Alta,Divorced,3907,1,Y,No,13,Alta,Media,80,3,6,2,6,1,2,No
+20,Travel_Rarely,Research & Development,4,Universitaria,Software Technologist,1,Baja,Alta,1,Laboratory Technician,Alta,Single,2973,1,Y,No,19,Alta,Media,80,0,1,2,1,0,0,No
+40,Travel_Rarely,Research & Development,1,Universitaria,Software Engineer,1,Baja,Alta,1,Laboratory Technician,Alta,Married,2406,8,Y,No,19,Alta,Alta,80,2,8,3,1,0,0,No
+29,Travel_Rarely,Research & Development,13,Secundaria,Other,1,Muy_Alta,Media,2,Laboratory Technician,Media,Married,4025,4,Y,Yes,13,Alta,Baja,80,1,10,2,4,0,3,No
+29,Travel_Frequently,Research & Development,20,Universitaria,Systems Engineer,1,Muy_Alta,Alta,1,Laboratory Technician,Alta,Married,3812,1,Y,No,13,Alta,Media,80,0,11,3,11,3,10,No
+37,Non-Travel,Research & Development,5,Master,Software Technologist,1,Alta,Muy_Alta,1,Laboratory Technician,Muy_Alta,Single,3500,0,Y,No,14,Alta,Baja,80,0,7,2,6,1,3,No
+22,Travel_Rarely,Research & Development,8,Primaria,Software Engineer,1,Media,Baja,1,Laboratory Technician,Baja,Married,2451,1,Y,No,15,Alta,Baja,80,1,4,3,4,1,1,No
+19,Travel_Rarely,Research & Development,3,Universitaria,Systems Engineer,1,Media,Alta,1,Laboratory Technician,Alta,Single,1483,1,Y,No,14,Alta,Muy_Alta,80,0,1,3,1,0,0,No
+36,Travel_Rarely,Research & Development,3,Universitaria,Software Engineer,1,Baja,Alta,1,Laboratory Technician,Alta,Divorced,2835,5,Y,No,22,Muy_Alta,Baja,80,1,7,2,1,0,0,No
+38,Travel_Frequently,Research & Development,2,Secundaria,Systems Engineer,1,Muy_Alta,Media,1,Laboratory Technician,Media,Single,2440,1,Y,No,22,Muy_Alta,Media,80,0,4,3,4,3,3,No
+35,Travel_Rarely,Research & Development,23,Universitaria,Systems Engineer,1,Alta,Alta,1,Laboratory Technician,Alta,Married,4014,3,Y,Yes,15,Alta,Alta,80,1,4,3,2,2,2,No
+42,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,Muy_Alta,Media,2,Data Scientist,Media,Married,6062,9,Y,Yes,13,Alta,Muy_Alta,80,1,8,4,4,0,2,No
+36,Travel_Frequently,Research & Development,11,#N/D,Software Engineer,1,Media,#N/D,2,Data Scientist,#N/D,Single,6499,1,Y,No,13,Alta,Alta,80,0,6,3,6,0,3,No
+43,Travel_Rarely,Research & Development,8,Universitaria,Software Engineer,1,Baja,Alta,2,Data Scientist,Alta,Divorced,4765,4,Y,No,21,Muy_Alta,Alta,80,1,4,2,1,0,0,No
+54,Travel_Rarely,Research & Development,19,#N/D,Systems Engineer,1,Muy_Alta,#N/D,2,Data Scientist,#N/D,Divorced,5485,9,Y,Yes,11,Alta,Media,80,2,9,4,5,1,4,No
+53,Travel_Rarely,Research & Development,13,Master,Systems Engineer,1,Muy_Alta,Muy_Alta,2,Data Scientist,Muy_Alta,Divorced,4450,1,Y,No,11,Alta,Alta,80,2,5,3,4,1,3,No
+45,Travel_Rarely,Research & Development,29,Universitaria,Software Technologist,1,Media,Alta,3,Data Scientist,Alta,Married,9380,4,Y,Yes,18,Alta,Muy_Alta,80,2,10,4,3,1,2,No
+29,Travel_Rarely,Research & Development,8,Secundaria,Systems Engineer,1,Media,Media,2,Data Scientist,Media,Married,5056,1,Y,Yes,15,Alta,Alta,80,1,10,2,10,1,2,No
+37,Travel_Rarely,Research & Development,19,Universitaria,Software Engineer,1,Alta,Alta,2,Data Scientist,Alta,Married,5768,3,Y,No,17,Alta,Baja,80,3,9,2,4,0,2,No
+37,Travel_Rarely,Research & Development,1,Universitaria,Software Engineer,1,Media,Alta,2,Data Scientist,Alta,Married,6447,6,Y,No,12,Alta,Media,80,1,8,2,6,4,3,No
+34,Travel_Frequently,Research & Development,2,Secundaria,Software Engineer,1,Muy_Alta,Media,2,Data Scientist,Media,Married,9547,1,Y,No,17,Alta,Alta,80,0,10,2,10,1,9,No
+33,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,Media,Media,2,Software Engineer,Media,Single,6949,0,Y,No,14,Alta,Baja,80,0,6,3,5,1,4,No
+42,Travel_Rarely,Research & Development,2,Secundaria,Other,1,Baja,Media,2,Software Engineer,Media,Single,6781,3,Y,No,23,Muy_Alta,Media,80,0,14,6,1,0,0,No
+55,Travel_Rarely,Research & Development,4,Universitaria,Software Engineer,1,Muy_Alta,Alta,2,Software Engineer,Alta,Married,4035,0,Y,Yes,16,Alta,Media,80,0,4,2,3,1,2,No
+45,Non-Travel,Research & Development,1,Secundaria,Software Engineer,1,Alta,Media,3,Software Engineer,Media,Married,10748,3,Y,No,23,Muy_Alta,Muy_Alta,80,1,25,3,23,14,4,No
+36,Travel_Rarely,Research & Development,27,Universitaria,Systems Engineer,1,Alta,Alta,2,Software Engineer,Alta,Married,5237,6,Y,No,13,Alta,Media,80,2,17,3,7,7,7,No
+42,Travel_Rarely,Research & Development,2,Universitaria,Software Engineer,1,Alta,Alta,2,Software Engineer,Alta,Married,4089,1,Y,No,13,Alta,Media,80,2,10,4,10,2,2,No
+31,Travel_Rarely,Research & Development,12,Universitaria,Systems Engineer,1,Muy_Alta,Alta,2,Software Engineer,Alta,Married,5855,0,Y,Yes,11,Alta,Alta,80,2,10,2,9,8,5,No
+36,Travel_Rarely,Research & Development,5,#N/D,Software Engineer,1,Media,Alta,3,Software Engineer,Alta,Married,8008,4,Y,No,12,Alta,Alta,80,2,9,6,3,0,2,No
+51,Travel_Rarely,Research & Development,3,Universitaria,Systems Engineer,1,Muy_Alta,Alta,4,Software Engineer,Alta,Single,13734,3,Y,No,18,Alta,Alta,80,0,21,6,7,1,0,No
+37,Travel_Rarely,Research & Development,3,Universitaria,Other,1,Muy_Alta,Alta,2,Software Engineer,Alta,Single,4107,3,Y,No,15,Alta,Baja,80,0,8,3,4,0,1,No
+34,Travel_Rarely,Research & Development,7,Universitaria,Software Engineer,1,Baja,Alta,3,Research Director,Alta,Single,11994,0,Y,No,11,Alta,Alta,80,0,13,4,12,2,11,No
+51,Travel_Rarely,Research & Development,8,Secundaria,Software Engineer,1,Media,Media,3,Research Director,Media,Married,12490,5,Y,No,16,Alta,Muy_Alta,80,2,16,5,10,4,7,No
+46,Travel_Rarely,Research & Development,1,Universitaria,Systems Engineer,1,Muy_Alta,Alta,5,Research Director,Alta,Divorced,19627,9,Y,No,17,Alta,Muy_Alta,80,2,23,0,2,2,2,No
+38,Travel_Rarely,Research & Development,15,Secundaria,Software Engineer,1,Alta,Media,3,Research Director,Media,Divorced,11510,0,Y,Yes,14,Alta,Media,80,1,12,3,11,2,9,No
+48,Travel_Rarely,Research & Development,1,Secundaria,Software Engineer,1,Muy_Alta,Media,5,Research Director,Media,Single,18265,6,Y,No,12,Alta,Alta,80,0,25,3,1,0,0,No
+48,Travel_Frequently,Research & Development,4,Secundaria,Systems Engineer,1,Alta,Media,4,CTO,Media,Married,15202,2,Y,No,25,Muy_Alta,Media,80,1,23,3,2,2,2,No
+45,Travel_Rarely,Human Resources,24,Universitaria,Medical,1,Media,Alta,1,Human Resources,Alta,Single,2177,1,Y,No,16,Alta,Baja,80,0,6,3,6,0,4,No
+38,Non-Travel,Human Resources,2,Universitaria,Human Resources,1,Baja,Alta,1,Human Resources,Alta,Divorced,2592,5,Y,No,13,Alta,Muy_Alta,80,3,13,3,11,3,8,No
+36,Travel_Frequently,Human Resources,2,#N/D,Human Resources,1,Media,Media,2,Human Resources,Media,Single,3886,1,Y,No,21,Muy_Alta,Muy_Alta,80,0,10,2,10,0,8,No
+39,Travel_Rarely,Human Resources,3,Master,Human Resources,1,Alta,Muy_Alta,2,Human Resources,Muy_Alta,Married,6389,9,Y,No,15,Alta,Alta,80,1,12,3,8,3,6,No
+31,Travel_Rarely,Human Resources,18,Master,Human Resources,1,Muy_Alta,Muy_Alta,1,Human Resources,Muy_Alta,Married,2956,0,Y,No,17,Alta,Alta,80,0,2,4,1,0,0,No
+31,Travel_Rarely,Human Resources,2,Secundaria,Human Resources,1,Baja,Media,2,Human Resources,Media,Married,6410,3,Y,No,12,Alta,Muy_Alta,80,0,9,1,2,1,0,No
+39,Travel_Rarely,Human Resources,2,Secundaria,Life Sciences,1,Muy_Alta,Media,2,Human Resources,Media,Married,5204,8,Y,No,11,Alta,Alta,80,2,13,2,5,0,4,No
+25,Travel_Rarely,Human Resources,2,Universitaria,Human Resources,1,Alta,Alta,1,Human Resources,#N/D,Married,2187,4,Y,No,14,Alta,Alta,80,0,6,3,2,1,2,No
+30,Travel_Rarely,Human Resources,9,Universitaria,Human Resources,1,Alta,Alta,2,Human Resources,Alta,Married,6347,0,Y,Yes,19,Alta,Muy_Alta,80,0,12,2,11,4,7,No
+44,Travel_Frequently,Human Resources,1,Universitaria,Human Resources,1,Baja,Alta,2,Human Resources,Alta,Married,5743,4,Y,Yes,11,Alta,Alta,80,0,14,3,10,0,2,No
+36,Travel_Rarely,Human Resources,13,Universitaria,Human Resources,1,Alta,Alta,1,Human Resources,Alta,Married,2143,4,Y,No,13,Alta,Media,80,1,8,2,5,0,4,No
+34,Travel_Frequently,Human Resources,23,Universitaria,Human Resources,1,Media,Alta,3,Human Resources,Alta,Divorced,9950,9,Y,Yes,15,Alta,Alta,80,3,11,2,3,0,2,No
+46,Travel_Rarely,Human Resources,1,Universitaria,Life Sciences,1,Muy_Alta,Alta,1,Human Resources,Alta,Single,3423,6,Y,No,12,Alta,Alta,80,0,10,3,7,5,7,No
+42,Travel_Rarely,Human Resources,2,Universitaria,Technical Degree,1,Alta,Alta,1,Human Resources,Alta,Divorced,2696,0,Y,Yes,11,Alta,Alta,80,1,4,5,3,1,0,No
+24,Travel_Rarely,Human Resources,22,Primaria,Human Resources,1,Muy_Alta,Baja,1,Human Resources,Baja,Married,1555,1,Y,No,11,Alta,Alta,80,1,1,2,1,0,0,No
+59,Travel_Rarely,Human Resources,6,Universitaria,Medical,1,Media,Alta,1,Human Resources,Alta,Married,2267,8,Y,No,17,Alta,Muy_Alta,80,0,7,2,2,2,2,No
+24,Travel_Frequently,Human Resources,10,Universitaria,Medical,1,Baja,Alta,1,Human Resources,Alta,Married,2145,0,Y,No,14,Alta,Muy_Alta,80,1,3,2,2,2,1,No
+42,Non-Travel,Human Resources,2,Master,Medical,1,Muy_Alta,Muy_Alta,2,Human Resources,Muy_Alta,Married,6272,7,Y,No,16,Alta,Baja,80,1,10,3,4,0,3,No
+29,Travel_Rarely,Human Resources,13,Secundaria,Human Resources,1,Baja,Media,1,Human Resources,Media,Divorced,2335,4,Y,Yes,15,Alta,Muy_Alta,80,3,4,3,2,2,0,No
+44,Travel_Rarely,Human Resources,1,Universitaria,Life Sciences,1,Alta,Alta,1,Human Resources,Alta,Divorced,3195,4,Y,Yes,18,Alta,Baja,80,3,8,2,2,2,2,No
+38,Travel_Frequently,Human Resources,1,Universitaria,Other,1,Muy_Alta,Alta,1,Human Resources,Alta,Married,2991,0,Y,Yes,11,Alta,Media,80,1,7,2,6,1,2,No
+28,Travel_Rarely,Human Resources,8,Secundaria,Medical,1,Media,Media,1,Human Resources,Media,Divorced,4936,1,Y,No,13,Alta,Muy_Alta,80,1,6,6,5,0,4,No
+26,Travel_Frequently,Human Resources,17,Universitaria,Life Sciences,1,Media,Alta,1,Human Resources,Alta,Divorced,2741,0,Y,Yes,11,Alta,Media,80,1,8,2,7,1,0,No
+36,Travel_Rarely,Human Resources,8,Secundaria,Life Sciences,1,Baja,Media,1,Human Resources,Media,Married,2342,0,Y,No,21,Muy_Alta,Alta,80,0,6,3,5,0,3,No
+30,Travel_Rarely,Human Resources,1,Universitaria,Life Sciences,1,Alta,Alta,1,Human Resources,Alta,Divorced,2064,0,Y,No,21,Muy_Alta,Baja,80,1,6,3,5,1,3,No
+56,Travel_Rarely,Human Resources,8,Universitaria,Life Sciences,1,Muy_Alta,Alta,5,Talent Manager,Alta,Single,19717,6,Y,No,14,Alta,Baja,80,0,36,4,7,7,7,No
+47,Travel_Rarely,Sales,14,Universitaria,Medical,1,Alta,Alta,2,Sales Executive,Alta,Married,4591,3,Y,Yes,17,Alta,Alta,80,1,11,4,5,1,2,No
+29,Travel_Rarely,Sales,3,Universitaria,Medical,1,Media,Alta,2,Sales Executive,Alta,Married,5561,1,Y,No,14,Alta,Baja,80,1,6,5,6,1,2,No
+35,Travel_Rarely,Sales,10,Secundaria,Medical,1,Muy_Alta,Media,3,Sales Executive,Media,Married,10306,9,Y,No,17,Alta,Alta,80,0,15,3,13,6,0,No
+59,Travel_Rarely,Sales,25,Universitaria,Life Sciences,1,Baja,Alta,3,Sales Executive,Alta,Single,7637,7,Y,No,11,Alta,Muy_Alta,80,0,28,3,21,7,9,No
+41,Non-Travel,Sales,10,Universitaria,Life Sciences,1,Muy_Alta,Alta,2,Sales Executive,Alta,Single,6230,7,Y,No,14,Alta,Muy_Alta,80,0,16,3,14,1,10,No
+30,Travel_Rarely,Sales,7,Universitaria,Marketing,1,Muy_Alta,Alta,2,Sales Executive,Alta,Divorced,4779,7,Y,No,14,Alta,Media,80,2,8,3,3,0,2,No
+34,Travel_Rarely,Sales,3,Primaria,Life Sciences,1,Muy_Alta,Baja,2,Sales Executive,Baja,Single,6029,5,Y,No,12,Alta,Baja,80,0,6,3,2,2,2,No
+43,Travel_Rarely,Sales,4,Secundaria,Marketing,1,Muy_Alta,Media,3,Sales Executive,Media,Single,10231,3,Y,No,14,Alta,Muy_Alta,80,0,23,3,21,15,17,No
+41,Non-Travel,Sales,10,Primaria,Medical,1,Alta,Baja,2,Sales Executive,Baja,Single,6151,1,Y,No,13,Alta,Baja,80,0,19,4,19,11,9,No
+37,Non-Travel,Sales,9,Universitaria,Medical,1,Baja,Alta,3,Sales Executive,Alta,Divorced,8834,1,Y,No,13,Alta,Muy_Alta,80,1,9,6,9,7,7,No
+34,Travel_Rarely,Sales,9,#N/D,Life Sciences,1,Media,Alta,2,Sales Executive,Alta,Married,5714,1,Y,No,20,Muy_Alta,Baja,80,0,6,3,6,1,3,No
+41,Travel_Rarely,Sales,23,Universitaria,Life Sciences,1,Muy_Alta,Alta,3,Sales Executive,Alta,Single,7082,3,Y,Yes,16,Alta,Muy_Alta,80,0,21,2,2,0,2,No
+41,Travel_Rarely,Sales,3,Secundaria,Life Sciences,1,Alta,Media,2,Sales Executive,Media,Divorced,8938,2,Y,No,11,Alta,Alta,80,1,14,5,5,0,4,No
+45,Travel_Rarely,Sales,9,Universitaria,Marketing,1,Muy_Alta,Alta,3,Sales Executive,Alta,Divorced,10761,4,Y,Yes,12,Alta,Alta,80,1,18,2,5,0,2,No
+36,Travel_Rarely,Sales,11,Secundaria,Marketing,1,Media,Media,2,Sales Executive,Media,Married,6652,4,Y,No,13,Alta,Baja,80,1,8,2,6,0,0,No
+37,Travel_Rarely,Sales,1,Secundaria,Life Sciences,1,Baja,Media,3,Sales Executive,Media,Married,10609,5,Y,No,11,Alta,Alta,80,0,17,2,14,11,7,No
+37,Non-Travel,Sales,19,Universitaria,Medical,1,Baja,Alta,3,Sales Executive,Alta,Single,7642,1,Y,Yes,13,Alta,Muy_Alta,80,0,10,2,10,0,9,No
+53,Travel_Rarely,Sales,8,Universitaria,Marketing,1,Baja,Alta,4,Sales Executive,Alta,Married,11836,5,Y,No,14,Alta,Alta,80,1,28,3,2,2,2,No
+50,Travel_Frequently,Sales,12,Universitaria,Marketing,1,Alta,Alta,3,Sales Executive,Alta,Single,9208,4,Y,No,11,Alta,Muy_Alta,80,0,16,3,2,2,1,No
+46,Travel_Frequently,Sales,5,Universitaria,Marketing,1,Baja,Alta,2,Sales Executive,Alta,Single,5772,4,Y,Yes,21,Muy_Alta,Alta,80,0,14,4,9,0,8,No
+53,Travel_Rarely,Sales,2,Universitaria,Medical,1,Alta,Alta,4,CMO,Alta,Divorced,14852,6,Y,No,13,Alta,Alta,80,1,22,3,17,15,2,No
+25,Travel_Rarely,Sales,13,Universitaria,Medical,1,Media,Alta,1,Sales Representative,Alta,Married,2096,1,Y,No,11,Alta,Alta,80,0,7,1,7,0,6,No
+20,Travel_Rarely,Sales,9,Universitaria,Life Sciences,1,Muy_Alta,Alta,1,Sales Representative,Alta,Single,2728,1,Y,No,11,Alta,Baja,80,0,2,3,2,0,2,No
+32,Non-Travel,Sales,2,Universitaria,Life Sciences,1,Alta,Alta,1,Sales Representative,Alta,Divorced,2827,1,Y,No,12,Alta,Alta,80,3,1,3,1,0,0,No
+31,Travel_Rarely,Sales,2,Universitaria,Life Sciences,1,Baja,Alta,1,Sales Representative,Alta,Married,3067,0,Y,No,19,Alta,Alta,80,1,3,1,2,1,2,No
+29,Travel_Rarely,Sales,10,#N/D,Life Sciences,1,Alta,Alta,1,Sales Representative,Alta,Single,2642,1,Y,No,11,Alta,Alta,80,0,1,6,1,0,0,No
+21,Travel_Rarely,Sales,5,Universitaria,Medical,1,Alta,Alta,1,Sales Representative,Alta,Single,2380,1,Y,Yes,11,Alta,Muy_Alta,80,0,2,6,2,1,2,No
+33,Non-Travel,Sales,8,Secundaria,Life Sciences,1,Media,Media,1,Sales Representative,Media,Single,2342,0,Y,No,19,Alta,Muy_Alta,80,0,3,2,2,2,2,No
+29,Travel_Frequently,Sales,20,Universitaria,Technical Degree,1,Alta,Alta,1,Sales Representative,Alta,Married,2157,1,Y,No,15,Alta,Media,80,1,3,5,3,0,2,No
+27,Travel_Rarely,Sales,11,#N/D,Medical,1,Alta,Muy_Alta,1,Sales Representative,Muy_Alta,Married,2534,8,Y,No,14,Alta,Media,80,1,5,4,1,0,0,No
+45,Travel_Rarely,Sales,2,Primaria,Technical Degree,1,Media,Baja,2,Sales Representative,Baja,Single,6632,0,Y,No,13,Alta,Baja,80,0,9,3,8,3,1,No
+24,Travel_Frequently,Sales,24,#N/D,Medical,1,Muy_Alta,Alta,1,Sales Representative,Alta,Married,2400,0,Y,No,13,Alta,Alta,80,2,3,3,2,2,1,No
+37,Travel_Frequently,Sales,4,Universitaria,Marketing,1,Baja,Alta,1,Sales Representative,Alta,Divorced,2793,4,Y,No,17,Alta,Alta,80,1,13,2,9,5,8,No
+36,Travel_Rarely,Sales,2,Universitaria,Life Sciences,1,Alta,Alta,1,Sales Representative,Alta,Single,2644,3,Y,Yes,21,Muy_Alta,Muy_Alta,80,0,7,3,3,1,2,No
+47,Travel_Frequently,Sales,4,Universitaria,Medical,1,Media,Alta,2,Sales Representative,Alta,Single,2976,3,Y,No,19,Alta,Baja,80,0,5,3,0,0,0,No
+34,Travel_Frequently,Sales,2,Universitaria,Marketing,1,Alta,Alta,1,Sales Representative,Alta,Married,2231,6,Y,No,18,Alta,Muy_Alta,80,1,6,3,4,1,2,No
+31,Travel_Frequently,Sales,5,Universitaria,Marketing,1,Muy_Alta,Alta,1,Sales Representative,Alta,Divorced,2789,1,Y,No,11,Alta,Alta,80,1,2,5,2,2,2,No
+38,Travel_Rarely,Sales,2,Primaria,Marketing,1,Media,Baja,2,Sales Representative,Baja,Married,5405,2,Y,Yes,20,Muy_Alta,Baja,80,2,20,4,4,0,3,No
+32,Travel_Rarely,Sales,1,Secundaria,Medical,1,Media,Media,1,Sales Representative,Media,Married,2269,0,Y,No,14,Alta,Media,80,1,3,2,2,2,2,No
+52,Non-Travel,Sales,29,Universitaria,Life Sciences,1,Baja,Alta,1,Sales Representative,Alta,Divorced,3482,2,Y,No,15,Alta,Media,80,2,16,3,9,0,0,No
+21,Travel_Rarely,Sales,22,Universitaria,Technical Degree,1,Alta,Alta,1,Sales Representative,Alta,Single,3447,1,Y,No,11,Alta,Alta,80,0,3,2,3,1,2,No
+21,Non-Travel,Sales,9,Universitaria,Medical,1,Baja,Alta,1,Sales Representative,Alta,Single,2610,1,Y,No,24,Muy_Alta,Alta,80,0,3,3,3,2,2,No
+50,Travel_Rarely,Sales,8,#N/D,Marketing,1,Muy_Alta,Alta,1,Sales Representative,Alta,Married,3875,7,Y,No,15,Alta,Muy_Alta,80,1,4,2,2,2,2,No
+31,Travel_Rarely,Sales,7,Secundaria,Life Sciences,1,Media,Media,1,Sales Representative,Media,Married,2329,3,Y,No,15,Alta,Media,80,0,13,2,7,5,2,No
+24,Non-Travel,Sales,13,Universitaria,Life Sciences,1,Muy_Alta,Alta,1,Sales Representative,Alta,Married,2033,1,Y,No,13,Alta,Alta,80,1,1,2,1,0,0,No
+20,Travel_Rarely,Sales,21,Master,Marketing,1,Alta,Muy_Alta,1,Sales Representative,Muy_Alta,Single,2678,1,Y,No,17,Alta,Muy_Alta,80,0,2,2,2,2,2,No
+35,Travel_Rarely,Sales,2,Universitaria,Marketing,1,Muy_Alta,Alta,1,Sales Representative,Alta,Married,2014,1,Y,No,13,Alta,Baja,80,0,2,3,2,2,2,No
+38,Travel_Rarely,Sales,1,Secundaria,Life Sciences,1,Baja,Media,1,Sales Representative,Media,Single,2858,4,Y,No,14,Alta,Baja,80,0,20,3,1,0,0,No
+34,Travel_Rarely,Sales,10,Universitaria,Life Sciences,1,Alta,Alta,1,Sales Representative,Alta,Married,2220,1,Y,Yes,19,Alta,Muy_Alta,80,1,1,2,1,0,0,No
+35,Travel_Rarely,Sales,7,Universitaria,Life Sciences,1,Muy_Alta,Alta,1,Sales Representative,Alta,Married,2404,1,Y,No,13,Alta,Baja,80,1,1,3,1,0,0,No
+32,Travel_Rarely,Sales,4,Universitaria,Life Sciences,1,Alta,Alta,1,Sales Representative,Alta,Married,3931,2,Y,No,11,Alta,Baja,80,1,6,5,4,1,2,No
+31,Non-Travel,Financial,5,Universitaria,Finanzas,1,Media,Alta,2,Accountant,Alta,Single,9936,0,Y,No,19,Alta,Media,80,0,10,2,9,1,7,No
+39,Travel_Rarely,Financial,9,Universitaria,Finanzas,1,Baja,Alta,2,Accountant,Alta,Married,5151,1,Y,No,25,Muy_Alta,Muy_Alta,80,1,10,3,10,7,9,No
+37,Travel_Rarely,Financial,1,#N/D,Ingeniería Administrativa,1,Baja,Media,2,Accountant,Media,Divorced,5993,1,Y,No,18,Alta,Alta,80,1,7,2,7,0,7,No
+38,Travel_Frequently,Financial,2,Master,Ingeniería Administrativa,1,Baja,Muy_Alta,2,Accountant,Muy_Alta,Single,5980,6,Y,Yes,12,Alta,Muy_Alta,80,0,17,2,15,4,12,No
+28,Travel_Rarely,Financial,1,Universitaria,Finanzas,1,Alta,Alta,1,Financial Analyst,Alta,Married,3591,1,Y,No,25,Muy_Alta,Alta,80,1,3,3,3,1,2,No
+43,Non-Travel,Financial,7,Master,Finanzas,1,Muy_Alta,Muy_Alta,1,Financial Analyst,Muy_Alta,Divorced,2089,4,Y,No,14,Alta,Muy_Alta,80,3,7,3,5,2,2,No
+32,Travel_Frequently,Financial,2,Universitaria,Ingeniería Administrativa,1,Muy_Alta,Alta,2,Financial Analyst,Alta,Single,4998,4,Y,Yes,14,Alta,Muy_Alta,80,0,10,2,8,0,7,No
+32,Travel_Frequently,Financial,16,Universitaria,Ingeniería Administrativa,1,Media,Baja,1,Financial Analyst,#N/D,Single,3919,1,Y,Yes,22,Muy_Alta,Media,80,0,10,5,10,6,7,No
+26,Travel_Rarely,Financial,6,Universitaria,Other,1,Alta,Media,1,Financial Analyst,Media,Married,2368,1,Y,No,19,Alta,Alta,80,0,5,3,5,4,3,No
+33,Travel_Rarely,Financial,25,Universitaria,Finanzas,1,Baja,Media,1,Financial Analyst,Media,Single,2313,4,Y,Yes,20,Muy_Alta,Media,80,0,5,0,2,2,2,No
+37,Travel_Frequently,Financial,9,Universitaria,Finanzas,1,Media,Alta,1,Financial Analyst,Alta,Married,2326,1,Y,Yes,12,Alta,Alta,80,3,4,3,4,1,2,No
+36,Travel_Rarely,Financial,5,Universitaria,Ingeniería Administrativa,1,Media,Media,1,Financial Analyst,Media,Married,3419,9,Y,Yes,14,Alta,Muy_Alta,80,1,6,3,1,0,0,No
+36,Travel_Rarely,Financial,2,Universitaria,Other,1,Muy_Alta,Alta,2,Financial Analyst,Alta,Married,6962,4,Y,Yes,22,Muy_Alta,Muy_Alta,80,1,15,2,1,0,0,No
+41,Travel_Rarely,Financial,19,Universitaria,Ingeniería Administrativa,1,Alta,Alta,2,Financial Analyst,Alta,Divorced,3072,2,Y,No,16,Alta,Baja,80,2,17,2,1,0,0,No
+38,Non-Travel,Financial,6,Universitaria,Finanzas,1,Media,Baja,2,Financial Analyst,Baja,Divorced,5329,7,Y,Yes,12,Alta,Muy_Alta,80,3,17,3,13,1,9,No
+22,Travel_Rarely,Financial,19,Universitaria,Finanzas,1,Alta,Alta,1,Financial Analyst,Alta,Married,2323,1,Y,No,24,Muy_Alta,Baja,80,2,2,6,2,2,2,No
+40,Travel_Rarely,Financial,2,Universitaria,Finanzas,1,Alta,Alta,1,Financial Analyst,Alta,Married,2001,2,Y,No,14,Alta,Media,80,3,20,2,5,0,2,No
+34,Travel_Rarely,Financial,2,Universitaria,Finanzas,1,Alta,Media,1,Financial Analyst,Media,Single,4381,1,Y,No,11,Alta,Alta,80,0,6,3,6,1,3,No
+30,Travel_Rarely,Financial,7,Universitaria,Finanzas,1,Media,Media,1,Financial Analyst,Media,Married,2141,1,Y,No,12,Alta,Media,80,1,6,3,6,1,1,No
+35,Travel_Frequently,Financial,25,Universitaria,Ingeniería Administrativa,1,Muy_Alta,Alta,1,Financial Analyst,Alta,Divorced,2022,1,Y,Yes,19,Alta,Baja,80,1,10,3,10,7,8,No
+39,Travel_Rarely,Financial,19,Universitaria,Other,1,Muy_Alta,Alta,2,Financial Analyst,Alta,Divorced,3902,8,Y,No,14,Alta,Media,80,3,7,2,2,2,2,No
+56,Travel_Rarely,Financial,8,Universitaria,Ingeniería Administrativa,1,Alta,Alta,1,Financial Analyst,Alta,Divorced,4257,4,Y,Yes,18,Alta,Alta,80,1,19,3,2,2,2,No
+41,Travel_Rarely,Financial,7,Master,Contaduría,1,Media,Muy_Alta,1,Financial Analyst,Muy_Alta,Married,3376,1,Y,No,13,Alta,Alta,80,0,10,3,10,0,8,No
+42,Non-Travel,Financial,10,Universitaria,Contaduría,1,Alta,Alta,1,Financial Analyst,Alta,Married,2936,3,Y,No,22,Muy_Alta,Media,80,2,10,1,6,3,3,No
+18,Non-Travel,Financial,5,Universitaria,Ingeniería Administrativa,1,Media,Alta,1,Financial Analyst,Alta,Single,1051,1,Y,No,15,Alta,Muy_Alta,80,0,0,2,0,0,0,No
+28,Travel_Rarely,Financial,1,Universitaria,Ingeniería Administrativa,1,Baja,Media,1,Financial Analyst,Media,Divorced,1563,1,Y,No,14,Alta,Muy_Alta,80,1,1,2,1,0,0,No
+24,Travel_Rarely,Financial,23,Master,Finanzas,1,Media,Muy_Alta,1,Financial Analyst,Muy_Alta,Married,2725,1,Y,Yes,11,Alta,Media,80,2,6,3,6,1,4,No
+44,Travel_Rarely,Financial,4,Master,Ingeniería Administrativa,1,Alta,Muy_Alta,5,CFO,Muy_Alta,Divorced,19190,1,Y,No,14,Alta,Muy_Alta,80,2,26,4,25,14,13,No
+34,Travel_Rarely,Financial,10,Universitaria,Ingeniería Administrativa,1,Media,Alta,1,Treasurer,Alta,Divorced,2008,1,Y,No,14,Alta,Media,80,2,1,3,1,1,0,No
+32,Non-Travel,Financial,1,Universitaria,Ingeniería Administrativa,1,Alta,Media,1,Treasurer,Media,Married,2332,6,Y,No,20,Muy_Alta,Alta,80,0,5,3,3,0,2,No
+32,Non-Travel,Financial,29,#N/D,Finanzas,1,Muy_Alta,Alta,1,Treasurer,Alta,Single,4025,9,Y,No,12,Alta,Media,80,0,10,2,8,7,7,No
+42,Travel_Rarely,Financial,3,#N/D,Ingeniería Administrativa,1,Alta,Muy_Alta,2,Treasurer,Muy_Alta,Married,5231,2,Y,Yes,13,Alta,Media,80,1,17,1,5,1,3,No
+37,Travel_Rarely,Financial,11,#N/D,Finanzas,1,Baja,Baja,2,Coordinator,Baja,Married,4777,5,Y,No,15,Alta,Baja,80,0,15,2,1,0,0,No
+44,Travel_Rarely,Financial,15,Universitaria,Finanzas,1,Baja,Alta,3,Coordinator,Alta,Married,7978,1,Y,No,11,Alta,Muy_Alta,80,1,10,2,10,0,5,No
+38,Travel_Rarely,Financial,10,Universitaria,Finanzas,1,Alta,Alta,2,Coordinator,#N/D,Married,9824,3,Y,No,19,Alta,Alta,80,1,18,4,1,0,0,No
+48,Travel_Rarely,Financial,6,Universitaria,Ingeniería Administrativa,1,Baja,Media,2,Coordinator,Media,Single,4240,2,Y,No,13,Alta,Muy_Alta,80,0,19,0,2,2,2,No
+33,Travel_Frequently,Financial,1,Master,Other,1,Alta,Muy_Alta,2,Coordinator,Muy_Alta,Married,5488,1,Y,Yes,13,Alta,Baja,80,1,6,2,6,1,2,No
+53,Travel_Rarely,Financial,24,Master,Finanzas,1,Media,Muy_Alta,3,Coordinator,Muy_Alta,Married,7005,3,Y,No,15,Alta,Alta,80,0,11,2,4,1,2,No
+46,Travel_Frequently,Financial,18,Universitaria,Finanzas,1,Baja,Alta,3,Coordinator,#N/D,Married,10527,5,Y,No,11,Alta,Muy_Alta,80,0,28,3,2,1,2,No
+36,Travel_Rarely,Financial,3,Master,Ingeniería Administrativa,1,Muy_Alta,Muy_Alta,2,Coordinator,Muy_Alta,Divorced,6842,6,Y,No,20,Muy_Alta,Baja,80,1,13,3,5,0,4,No
+33,Travel_Rarely,Financial,5,#N/D,Ingeniería Administrativa,1,Muy_Alta,Media,3,Coordinator,Media,Divorced,7119,4,Y,No,15,Alta,Alta,80,1,9,2,3,1,2,No
+43,Travel_Frequently,Financial,1,Universitaria,Ingeniería Administrativa,1,Muy_Alta,Alta,2,Coordinator,Alta,Married,5562,4,Y,No,13,Alta,Media,80,1,12,2,5,2,2,No
+55,Travel_Rarely,Financial,2,Universitaria,Finanzas,1,Alta,Media,5,Financial Director,Media,Married,19038,8,Y,No,12,Alta,Media,80,3,34,2,1,0,0,No
+54,Travel_Rarely,Financial,3,Universitaria,Ingeniería Administrativa,1,Muy_Alta,Alta,4,Financial Director,Alta,Married,17779,3,Y,No,14,Alta,Baja,80,0,36,2,10,0,9,No
+37,Travel_Rarely,Financial,7,Universitaria,Finanzas,1,Baja,Alta,3,Financial Director,Alta,Single,13664,4,Y,No,13,Alta,Baja,80,0,16,3,5,0,2,No
+54,Travel_Rarely,Financial,2,#N/D,Contaduría,1,Baja,Alta,3,Financial Director,Alta,Married,13549,9,Y,No,12,Alta,Baja,80,1,16,5,4,0,3,No
+46,Travel_Rarely,Financial,15,#N/D,Ingeniería Administrativa,1,Muy_Alta,Alta,5,Financial Director,Alta,Married,19081,5,Y,No,11,Alta,Baja,80,1,25,2,4,0,3,No
