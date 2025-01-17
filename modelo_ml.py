@@ -9,6 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import classification_report
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 
 
 #Funciones 
@@ -69,18 +70,18 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 # Aplicar SMOTE al conjunto de entrenamiento
 smote = SMOTE(random_state=42)
-X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
+X_train_resampled1, y_train_resampled1 = smote.fit_resample(X_train, y_train)
 
 # Verificar la proporción de clases después de SMOTE
 print("\nDistribución después de SMOTE en y_train:")
-print(y_train_resampled.value_counts(normalize=True))
+print(y_train_resampled1.value_counts(normalize=True))
 
 # Aplicar RandomUnderSampler
 undersampler = RandomUnderSampler(random_state=42)
-X_train_resampled, y_train_resampled = undersampler.fit_resample(X_train, y_train)
+X_train_resampled2, y_train_resampled2 = undersampler.fit_resample(X_train, y_train)#Se emplearan para arboles de decisicion y regresion logistica
 
 # Verificar proporciones
-print(y_train_resampled.value_counts(normalize=True))
+print(y_train_resampled2.value_counts(normalize=True))
 
 
 
@@ -94,14 +95,18 @@ Si una clase representa más del 90%, es un desequilibrio extremo.
 
 
 '''guardado de conjuntos para entrenamiento y prueba'''
-X_train.to_csv('X_train_resampled.csv', index=False)
-X_test.to_csv('X_test.csv', index=False)
-y_train.to_csv('y_train_resampled.csv', index=False)
-y_test.to_csv('y_test.csv', index=False)
+# X_train_resampled1.to_csv('X_train_resampled1.csv', index=False)#oversampled
+# X_train_resampled2.to_csv('X_train_resampled2.csv', index=False)#undersampled
+# X_test.to_csv('X_test.csv', index=False)
+# y_train_resampled1.to_csv('y_train_resampled1.csv', index=False)#oversampled
+# y_train_resampled2.to_csv('y_train_resampled2.csv', index=False)#undersampled
+# y_test.to_csv('y_test.csv', index=False)
 
-X_train = pd.read_csv('X_train.csv')
+X_train1 = pd.read_csv('X_train_resampled1.csv')#aversampled
+X_train2 = pd.read_csv('X_train_resampled2.csv')#undersampled
 X_test = pd.read_csv('X_test.csv')
-y_train = pd.read_csv('y_train.csv').squeeze()  # .squeeze() convierte el DataFrame a Series
+y_train1 = pd.read_csv('y_train_resampled1.csv').squeeze() #oversampled
+y_train2 = pd.read_csv('y_train_resampled2.csv').squeeze()  # .squeeze() convierte el DataFrame a Series, undersampled
 y_test = pd.read_csv('y_test.csv').squeeze()
 
 
@@ -109,31 +114,61 @@ y_test = pd.read_csv('y_test.csv').squeeze()
 # Crear el escalador
 scaler = StandardScaler()
 
-# Ajustar y transformar los datos de entrenamiento
-X_train_scaled = scaler.fit_transform(X_train)
-
-# Transformar los datos de prueba
-X_test_scaled = scaler.transform(X_test)
+# Escalar los datos y conservar columnas originales
+X_train_scaled1 = pd.DataFrame(scaler.fit_transform(X_train1), columns=X_train1.columns)
+X_train_scaled2 = pd.DataFrame(scaler.fit_transform(X_train2), columns=X_train2.columns)
+X_test_scaled = pd.DataFrame(scaler.transform(X_test), columns=X_test.columns)
 
 # Modelos a evaluar
 modelos = {
-    "Regresión Logística": LogisticRegression(random_state=42),
-    "Árbol de Decisión": DecisionTreeClassifier(random_state=42),
-    "Random Forest": RandomForestClassifier(random_state=42),
-    "SVM": SVC(random_state=42),
-    "Red Neuronal": MLPClassifier(random_state=42)
+    "Regresión Logística": LogisticRegression(random_state=42, max_iter=500, class_weight='balanced'),
+    "Árbol de Decisión": DecisionTreeClassifier(random_state=42, class_weight='balanced'),
+    "Random Forest": RandomForestClassifier(random_state=42, class_weight='balanced', n_estimators=100),
+    "SVM": SVC(random_state=42, probability=True),
+    "Red Neuronal": MLPClassifier(random_state=42, max_iter=500)
 }
+
+resultados = {}
 
 for nombre, modelo in modelos.items():
     print(f"\nEvaluando: {nombre}")
     
-    # Para SVM y Red Neuronal usamos los datos escalados
     if nombre in ["SVM", "Red Neuronal"]:
-        modelo.fit(X_train_scaled, y_train)
+        modelo.fit(X_train_scaled1, y_train1)
         y_pred = modelo.predict(X_test_scaled)
-    else:
-        modelo.fit(X_train, y_train)
+        y_prob = modelo.predict_proba(X_test_scaled)[:, 1]
+    elif nombre in ["Random Forest", "Árbol de Decisión"]:
+        modelo.fit(X_train2, y_train2)
         y_pred = modelo.predict(X_test)
+        y_prob = modelo.predict_proba(X_test)[:, 1]
+    else:
+        modelo.fit(X_train_scaled2, y_train2)
+        y_pred = modelo.predict(X_test_scaled)
+        y_prob = modelo.predict_proba(X_test_scaled)[:, 1]
     
-    # Imprimir el reporte de clasificación
+    resultados[nombre] = {
+        "Accuracy": accuracy_score(y_test, y_pred),
+        "Precision": precision_score(y_test, y_pred, zero_division=1),
+        "Recall": recall_score(y_test, y_pred),
+        "F1-score": f1_score(y_test, y_pred),
+        "AUC-ROC": roc_auc_score(y_test, y_prob)
+    }
+
     print(classification_report(y_test, y_pred))
+
+resultados_df = pd.DataFrame(resultados).T
+print(resultados_df)
+
+
+'''
+Accuracy	Proporción de predicciones correctas sobre el total.
+Precision	Proporción de positivos predichos que realmente son positivos.
+Recall	Proporción de positivos reales que fueron identificados.
+F1-score	Promedio armonizado de Precision y Recall.
+
+
+en vista que los datos estan balanceados, se prioriza la eleccion segun el parametro Accuracy
+dado que se deben interpretar los resultados, Precision sera clave para escoger el mejor modelo
+
+en base a las dos metricas anteriores, se escoge Random Forest como el modelo a emplear para predecir la rotacion de puesto
+'''
