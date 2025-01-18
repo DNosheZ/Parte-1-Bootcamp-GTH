@@ -13,6 +13,7 @@ df1['abandono'] = 'No'
 
 
 
+
 # Mostrar las dimensiones del dataset
 #print("Dimensiones del dataset:", df.shape)
 
@@ -32,6 +33,7 @@ print(df1.isnull().sum())
 
 df2 = pd.read_csv('Data_empleados_historicos_clean.csv')
 print("\nValores faltantes por columna:")
+df2['id'] = range(1, len(df2) + 1)
 print(df2.isnull().sum())
 
 # if df1.equals(df2):

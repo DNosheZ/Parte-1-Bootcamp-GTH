@@ -194,6 +194,7 @@ df = df.drop(columns=['sat_entorno_num', 'satisfaccion_num', 'sat_compas_num'])
 
 df = df.drop(columns=['sexo'])
 
+
 print("\nValores faltantes por columna:")
 print(df.isnull().sum())
 
