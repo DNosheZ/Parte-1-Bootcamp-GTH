@@ -30,20 +30,20 @@ print(df.head())
 print(f"Filas duplicadas: {df.duplicated().sum()}")
 
 
-# print('Analisis de correlacion para determinar educacion\n')
+print('Analisis de correlacion para determinar educacion\n')
 # Mapear valores educativos a números
 
 
 # Correlación entre educación y nivel_laboral/salario_mes
-# correlacion_nivel = df['educacion_num'].corr(df['nivel_laboral'])
-# correlacion_salario = df['educacion_num'].corr(df['salario_mes'])
+correlacion_nivel = df['educacion_num'].corr(df['nivel_laboral'])
+correlacion_salario = df['educacion_num'].corr(df['salario_mes'])
 
-# print(f"Correlación entre educación y nivel laboral: {correlacion_nivel}")
-# print(f"Correlación entre educación y salario mensual: {correlacion_salario}")
-# # Relación entre educación y puesto
-# relacion_puesto = df.groupby('puesto')['educacion_num'].mean()
-# print("Promedio de educación por puesto:")
-# print(relacion_puesto)
+print(f"Correlación entre educación y nivel laboral: {correlacion_nivel}")
+print(f"Correlación entre educación y salario mensual: {correlacion_salario}")
+# Relación entre educación y puesto
+relacion_puesto = df.groupby('puesto')['educacion_num'].mean()
+print("Promedio de educación por puesto:")
+print(relacion_puesto)
 import seaborn as sns
 import matplotlib.pyplot as plt
 
@@ -92,18 +92,18 @@ df = df.drop(columns=['educacion_num'])
 
 #Analisis y limpieza de implicacion
 
-# sns.countplot(data=df, x='implicacion', order=df['implicacion'].value_counts().index)
-# plt.title("Distribución de Implicación")
-# plt.xlabel("Niveles de Implicación")
-# plt.ylabel("Frecuencia")
-# plt.show()
+sns.countplot(data=df, x='implicacion', order=df['implicacion'].value_counts().index)
+plt.title("Distribución de Implicación")
+plt.xlabel("Niveles de Implicación")
+plt.ylabel("Frecuencia")
+plt.show()
 
-# implicacion_abandono = df.groupby(['implicacion', 'abandono']).size().unstack()
-# implicacion_abandono.plot(kind='bar', stacked=True)
-# plt.title("Implicación por estado de abandono")
-# plt.xlabel("Nivel de Implicación")
-# plt.ylabel("Frecuencia")
-# plt.show()
+implicacion_abandono = df.groupby(['implicacion', 'abandono']).size().unstack()
+implicacion_abandono.plot(kind='bar', stacked=True)
+plt.title("Implicación por estado de abandono")
+plt.xlabel("Nivel de Implicación")
+plt.ylabel("Frecuencia")
+plt.show()
 
 # implicacion_departamento = df.groupby('departamento')['implicacion'].value_counts(normalize=True).unstack()
 # implicacion_departamento.plot(kind='bar', stacked=True, figsize=(8, 6))
@@ -113,11 +113,11 @@ df = df.drop(columns=['educacion_num'])
 # plt.legend(title="Nivel de Implicación")
 # plt.show()
 
-# sns.boxplot(data=df, x='implicacion', y='satisfaccion_trabajo')
-# plt.title("Relación entre Implicación y Satisfacción Laboral")
-# plt.xlabel("Nivel de Implicación")
-# plt.ylabel("Satisfacción en el Trabajo")
-# plt.show()
+sns.boxplot(data=df, x='implicacion', y='satisfaccion_trabajo')
+plt.title("Relación entre Implicación y Satisfacción Laboral")
+plt.xlabel("Nivel de Implicación")
+plt.ylabel("Satisfacción en el Trabajo")
+plt.show()
 
 implicacion_mapping = {'Baja': 1, 'Media': 2, 'Alta': 3, 'Muy_Alta': 4}
 satifaccion_mapping = {'Baja': 1, 'Media': 2, 'Alta': 3, 'Muy_Alta': 4}
