@@ -238,12 +238,12 @@ importancias_agrupadas_svm_df = pd.DataFrame({
 }).sort_values(by='Importancia', key=abs, ascending=False)
 
 # Visualizar importancias agrupadas (SVM)
-plt.figure(figsize=(10, 6))
-plt.barh(importancias_agrupadas_svm_df['Variable'][:10], importancias_agrupadas_svm_df['Importancia'][:10])
-plt.gca().invert_yaxis()
-plt.xlabel("Importancia")
-plt.title("Características más importantes agrupadas según SVM (Kernel Lineal)")
-plt.show()
+# plt.figure(figsize=(10, 6))
+# plt.barh(importancias_agrupadas_svm_df['Variable'][:10], importancias_agrupadas_svm_df['Importancia'][:10])
+# plt.gca().invert_yaxis()
+# plt.xlabel("Importancia")
+# plt.title("Características más importantes agrupadas según SVM (Kernel Lineal)")
+# plt.show()
 
 
 # Cargar la base de datos actual
@@ -305,6 +305,6 @@ df_actuales['probabilidad_abandono_svm'] = svm_probabilities
 df_actuales_sorted_rf = df_actuales.sort_values(by='probabilidad_abandono_rf', ascending=False)
 
 # Mostrar los 10 empleados con mayor probabilidad de abandonar
-print(df_actuales_sorted_rf[['id', 'probabilidad_abandono_rf', 'probabilidad_abandono_svm']].head(10))
+print(df_actuales_sorted_rf[['id', 'probabilidad_abandono_rf']].head(10))
 
 df_actuales.to_csv('Predicciones_abandono_empleados_actuales.csv', index=False)
