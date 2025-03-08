@@ -1,0 +1,6 @@
+edad,distancia_casa,empleados,nivel_laboral,salario_mes,num_empresas_anteriores,incremento_salario_porc,horas_quincena,nivel_acciones,anos_experiencia,num_formaciones_ult_ano,anos_compania,anos_desde_ult_promocion,anos_con_manager_actual,id,probabilidad_abandono_rf,probabilidad_abandono_svm,satisfaccion_entorno,implicacion,satisfaccion_trabajo,estado_civil,evaluacion,satisfaccion_companeros,carrera,educacion,departamento,viajes,puesto,horas_extra
+20,9,1,1,2728,1,11,80,0,2,3,2,0,2,125,0.83,0.8756233399751749,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+29,10,1,1,2642,1,11,80,0,1,6,1,0,0,128,0.83,0.984611585440432,Baja,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+21,5,1,1,2380,1,11,80,0,2,6,2,1,2,129,0.84,0.7244655558171824,Baja,Baja,Baja,Single,Muy_Alta,Muy_Alta,Medical,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+33,8,1,1,2342,0,19,80,0,3,2,2,2,2,130,0.82,0.9441639592356946,Media,Media,Media,Single,Muy_Alta,Muy_Alta,Life Sciences,Secundaria,Sales,Travel_Frequently,Sales Representative,Yes
+20,21,1,1,2678,1,17,80,0,2,2,2,2,2,148,0.86,0.857148438290311,Baja,Muy_Alta,Muy_Alta,Single,Muy_Alta,Muy_Alta,Marketing,Primaria,Sales,Travel_Rarely,Sales Representative,Yes

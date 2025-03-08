@@ -1,0 +1,6 @@
+id,puesto,carrera,satisfaccion_entorno,estado_civil,satisfaccion_companeros,horas_extra,educacion,departamento,viajes
+125,Sales Representative,Life Sciences,Muy_Alta,Single,Baja,Yes,Universitaria,Sales,Travel_Rarely
+128,Sales Representative,Life Sciences,Baja,Single,Baja,Yes,Primaria,Sales,Travel_Rarely
+129,Sales Representative,Medical,Baja,Single,Muy_Alta,Yes,Universitaria,Sales,Travel_Rarely
+130,Sales Representative,Life Sciences,Media,Single,Muy_Alta,Yes,Secundaria,Sales,Travel_Frequently
+148,Sales Representative,Marketing,Baja,Single,Muy_Alta,Yes,Primaria,Sales,Travel_Rarely

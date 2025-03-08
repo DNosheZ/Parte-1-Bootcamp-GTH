@@ -1,0 +1,201 @@
+edad,distancia_casa,empleados,nivel_laboral,salario_mes,num_empresas_anteriores,incremento_salario_porc,horas_quincena,nivel_acciones,anos_experiencia,num_formaciones_ult_ano,anos_compania,anos_desde_ult_promocion,anos_con_manager_actual,id,probabilidad_abandono_rf,probabilidad_abandono_svm,satisfaccion_entorno,implicacion,satisfaccion_trabajo,estado_civil,evaluacion,satisfaccion_companeros,carrera,educacion,departamento,viajes,puesto,horas_extra
+37,19,1,1,3022,4,21,80,0,8,1,1,0,0,1,0.6,0.5967501539827462,Media,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+29,1,1,1,2720,1,18,80,1,10,5,10,2,8,2,0.44,0.4688098747834656,Media,Baja,Baja,Married,Muy_Alta,Muy_Alta,Software Engineer,Primaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+30,22,1,1,2132,4,11,80,0,7,2,5,0,1,3,0.65,0.5970575228383561,Baja,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+27,4,1,1,2517,1,11,80,3,5,2,5,0,3,4,0.44,0.5238891076681724,Baja,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+29,1,1,1,4787,9,14,80,3,4,3,2,2,2,5,0.62,0.5479270947598254,Baja,Baja,Baja,Married,Muy_Alta,Media,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+40,9,1,1,3617,8,14,80,1,3,2,1,0,0,6,0.67,0.6645356473298437,Muy_Alta,Baja,Baja,Married,Muy_Alta,Muy_Alta,Systems Engineer,Primaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+37,25,1,2,4449,3,15,80,2,15,2,13,10,7,7,0.39,0.4859279205480065,Media,Baja,Baja,Married,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+32,8,1,2,5175,5,12,80,1,9,3,5,1,3,8,0.27,0.5612657898555007,Baja,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Systems Engineer,Primaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+22,26,1,1,2814,1,14,80,0,4,2,4,1,3,9,0.64,0.5273078116702129,Media,Media,Media,Married,Muy_Alta,Media,Other,Secundaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+34,19,1,1,2929,1,12,80,0,10,3,10,8,7,10,0.3,0.5866777234016672,Media,Media,Media,Married,Muy_Alta,Media,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+52,8,1,2,4941,2,15,80,0,11,3,8,7,7,11,0.31,0.5394636717346071,Baja,Media,Media,Married,Muy_Alta,Baja,Systems Engineer,Secundaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+32,1,1,2,6220,1,17,80,2,10,3,10,0,9,12,0.19,0.405364860399664,Media,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+18,14,1,1,1514,1,16,80,0,0,4,0,0,0,13,0.79,0.5532304070198131,Media,Baja,Baja,Single,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+58,9,1,1,3346,4,20,80,1,9,3,1,0,0,14,0.61,0.5652406627256897,Media,Media,Media,Married,Muy_Alta,Media,Systems Engineer,Secundaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+27,17,1,1,3058,0,16,80,1,6,3,5,1,1,15,0.56,0.1665480437028974,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Software Technologist,Universitaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+33,5,1,1,2911,1,13,80,1,2,2,2,0,2,16,0.54,0.5675451809075723,Baja,Media,Media,Married,Muy_Alta,Baja,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+32,5,1,2,5878,3,12,80,1,12,2,7,2,5,17,0.12,0.508868627164105,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+33,3,1,1,3348,1,11,80,0,10,3,10,9,7,18,0.57,0.5654979772427565,Baja,Baja,Baja,Single,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+47,14,1,2,5467,8,18,80,1,16,4,8,1,7,19,0.36,0.1610528554073957,Baja,Baja,Baja,Married,Muy_Alta,Baja,Software Technologist,Universitaria,Research & Development,Travel_Frequently,Research Scientist,Yes
+45,2,1,1,2274,1,14,80,0,1,3,1,0,0,20,0.66,0.5380460969218089,Media,Media,Media,Single,Muy_Alta,Muy_Alta,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Scientist,Yes
+22,16,1,1,2935,1,13,80,2,1,2,1,0,0,21,0.64,0.6826843037068185,Muy_Alta,Muy_Alta,Muy_Alta,Married,Muy_Alta,Media,Systems Engineer,Primaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+31,20,1,2,4197,1,11,80,1,10,2,10,0,2,22,0.3,0.6496640867420574,Media,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+31,1,1,1,2218,1,12,80,1,4,3,4,3,2,23,0.51,0.6514216389063573,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+22,8,1,1,2398,1,17,80,0,1,6,1,0,0,24,0.75,0.6385884036877468,Baja,Baja,Baja,Married,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+35,1,1,1,2258,6,12,80,1,10,2,8,1,7,25,0.38,0.6493128132271514,Muy_Alta,Media,Media,Married,Muy_Alta,Media,Systems Engineer,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+25,4,1,1,3691,1,15,80,1,7,3,7,5,6,26,0.29,0.3297823510387488,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Software Technologist,Primaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+48,1,1,3,5381,9,13,80,0,23,2,1,0,0,27,0.51,0.7144030096127397,Baja,Media,Media,Single,Muy_Alta,Muy_Alta,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+52,11,1,2,3149,8,20,80,1,9,3,5,1,4,28,0.38,0.6181540897252492,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+24,17,1,1,2127,1,21,80,1,1,2,1,0,0,29,0.72,0.6377491801918059,Muy_Alta,Media,Media,Married,Muy_Alta,Muy_Alta,Other,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+26,7,1,1,3578,0,12,80,0,8,2,7,0,7,30,0.35,0.5764632147575389,Baja,Muy_Alta,Muy_Alta,Single,Muy_Alta,Muy_Alta,Other,Primaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+26,17,1,1,2305,1,15,80,3,3,3,3,0,2,31,0.67,0.5781975288985091,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Systems Engineer,Primaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+49,25,1,1,3211,1,14,80,1,10,3,9,1,4,32,0.28,0.6152531630481929,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+34,29,1,2,5429,4,13,80,2,10,1,8,7,7,33,0.46,0.6513364727360791,Media,Baja,Baja,Married,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+42,5,1,1,2093,4,17,80,1,8,4,2,2,0,34,0.58,0.5833710197795253,Media,Baja,Baja,Married,Muy_Alta,Muy_Alta,Other,Universitaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+26,7,1,1,2570,1,20,80,0,7,5,7,5,7,35,0.35,0.616908667066245,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+35,7,1,1,2690,1,18,80,1,1,5,1,0,1,36,0.59,0.655813558119135,Baja,Media,Media,Married,Muy_Alta,Muy_Alta,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+38,6,1,1,3702,1,11,80,1,5,3,5,0,4,37,0.3,0.5546680253572889,Muy_Alta,Media,Media,Married,Muy_Alta,Media,Other,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+38,29,1,2,2406,1,11,80,0,10,2,10,9,9,38,0.35,0.6522627616720887,Muy_Alta,Baja,Baja,Single,Muy_Alta,Muy_Alta,Software Engineer,Universitaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+31,29,1,1,3479,0,11,80,0,6,2,5,1,4,39,0.65,0.8140289986782095,Baja,Media,Media,Single,Muy_Alta,Media,Systems Engineer,Secundaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+24,29,1,1,3907,1,13,80,3,6,2,6,1,2,40,0.54,0.6916076159591131,Media,Baja,Baja,Married,Muy_Alta,Media,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+20,4,1,1,2973,1,19,80,0,1,2,1,0,0,41,0.8,0.405028445521573,Baja,Baja,Baja,Single,Muy_Alta,Media,Software Technologist,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+40,1,1,1,2406,8,19,80,2,8,3,1,0,0,42,0.56,0.6897174689305369,Baja,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+29,13,1,2,4025,4,13,80,1,10,2,4,0,3,43,0.52,0.5660742337166009,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Other,Secundaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+29,20,1,1,3812,1,13,80,0,11,3,11,3,10,44,0.41,0.6519085152950098,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Systems Engineer,Universitaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+37,5,1,1,3500,0,14,80,0,7,2,6,1,3,45,0.52,0.3379926903359763,Baja,Muy_Alta,Muy_Alta,Single,Muy_Alta,Baja,Software Technologist,Primaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+22,8,1,1,2451,1,15,80,1,4,3,4,1,1,46,0.67,0.6101304854416812,Media,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Primaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+19,3,1,1,1483,1,14,80,0,1,3,1,0,0,47,0.81,0.6394296578057127,Media,Baja,Baja,Single,Muy_Alta,Muy_Alta,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+36,3,1,1,2835,5,22,80,1,7,2,1,0,0,48,0.67,0.7392972433691326,Baja,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+38,2,1,1,2440,1,22,80,0,4,3,4,3,3,49,0.48,0.7540105458271222,Muy_Alta,Media,Media,Single,Muy_Alta,Media,Systems Engineer,Secundaria,Research & Development,Travel_Frequently,Laboratory Technician,Yes
+35,23,1,1,4014,3,15,80,1,4,3,2,2,2,50,0.71,0.6740777780304776,Baja,Baja,Baja,Married,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Laboratory Technician,Yes
+42,1,1,2,6062,9,13,80,1,8,4,4,0,2,51,0.3,0.5470128353675455,Muy_Alta,Media,Media,Married,Muy_Alta,Muy_Alta,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+36,11,1,2,6499,1,13,80,0,6,3,6,0,3,52,0.43,0.695738780207609,Media,Baja,Baja,Single,Muy_Alta,Baja,Software Engineer,Primaria,Research & Development,Travel_Frequently,Data Scientist,Yes
+43,8,1,2,4765,4,21,80,1,4,2,1,0,0,53,0.4,0.6617792351502032,Baja,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+54,19,1,2,5485,9,11,80,2,9,4,5,1,4,54,0.34,0.6200475118072779,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Systems Engineer,Primaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+53,13,1,2,4450,1,11,80,2,5,3,4,1,3,55,0.36,0.538605720018108,Muy_Alta,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Systems Engineer,Primaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+45,29,1,3,9380,4,18,80,2,10,4,3,1,2,56,0.51,0.1816320696987964,Media,Baja,Baja,Married,Muy_Alta,Muy_Alta,Software Technologist,Universitaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+29,8,1,2,5056,1,15,80,1,10,2,10,1,2,57,0.23,0.6011515964548483,Media,Media,Media,Married,Muy_Alta,Baja,Systems Engineer,Secundaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+37,19,1,2,5768,3,17,80,3,9,2,4,0,2,58,0.42,0.5525494383919325,Baja,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+37,1,1,2,6447,6,12,80,1,8,2,6,4,3,59,0.22,0.5694692495540288,Media,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Data Scientist,Yes
+34,2,1,2,9547,1,17,80,0,10,2,10,1,9,60,0.18,0.6140094239042841,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Software Engineer,Secundaria,Research & Development,Travel_Frequently,Data Scientist,Yes
+33,1,1,2,6949,0,14,80,0,6,3,5,1,4,61,0.46,0.7404835105117256,Media,Media,Media,Single,Muy_Alta,Baja,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+42,2,1,2,6781,3,23,80,0,14,6,1,0,0,62,0.4,0.7657150325320267,Baja,Media,Media,Single,Muy_Alta,Media,Other,Secundaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+55,4,1,2,4035,0,16,80,0,4,2,3,1,2,63,0.33,0.6364927368227614,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+45,1,1,3,10748,3,23,80,1,25,3,23,14,4,64,0.23,0.811255341044117,Baja,Media,Media,Married,Muy_Alta,Muy_Alta,Software Engineer,Secundaria,Research & Development,Travel_Frequently,Software Engineer,Yes
+36,27,1,2,5237,6,13,80,2,17,3,7,7,7,65,0.32,0.7563709376516486,Baja,Baja,Baja,Married,Muy_Alta,Media,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+42,2,1,2,4089,1,13,80,2,10,4,10,2,2,66,0.13,0.6584623960871102,Baja,Baja,Baja,Married,Muy_Alta,Media,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+31,12,1,2,5855,0,11,80,2,10,2,9,8,5,67,0.2,0.6607873529688488,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+36,5,1,3,8008,4,12,80,2,9,6,3,0,2,68,0.32,0.7154853569054573,Media,Baja,Baja,Married,Muy_Alta,Baja,Software Engineer,Primaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+51,3,1,4,13734,3,18,80,0,21,6,7,1,0,69,0.24,0.6845267608083779,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+37,3,1,2,4107,3,15,80,0,8,3,4,0,1,70,0.31,0.6183779922999115,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Other,Universitaria,Research & Development,Travel_Rarely,Software Engineer,Yes
+34,7,1,3,11994,0,11,80,0,13,4,12,2,11,71,0.29,0.3727529260867687,Baja,Baja,Baja,Single,Muy_Alta,Baja,Software Engineer,Universitaria,Research & Development,Travel_Rarely,Research Director,Yes
+51,8,1,3,12490,5,16,80,2,16,5,10,4,7,72,0.36,0.373159327598865,Media,Media,Media,Married,Muy_Alta,Muy_Alta,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Director,Yes
+46,1,1,5,19627,9,17,80,2,23,0,2,2,2,73,0.26,0.4221824342255693,Muy_Alta,Baja,Baja,Married,Muy_Alta,Muy_Alta,Systems Engineer,Universitaria,Research & Development,Travel_Rarely,Research Director,Yes
+38,15,1,3,11510,0,14,80,1,12,3,11,2,9,74,0.19,0.4296248442342966,Baja,Media,Media,Married,Muy_Alta,Media,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Director,Yes
+48,1,1,5,18265,6,12,80,0,25,3,1,0,0,75,0.13,0.4558530076064094,Muy_Alta,Media,Media,Single,Muy_Alta,Baja,Software Engineer,Secundaria,Research & Development,Travel_Rarely,Research Director,Yes
+48,4,1,4,15202,2,25,80,1,23,3,2,2,2,76,0.25,0.6518814796838547,Baja,Media,Media,Married,Muy_Alta,Media,Systems Engineer,Secundaria,Research & Development,Travel_Frequently,CTO,Yes
+45,24,1,1,2177,1,16,80,0,6,3,6,0,4,77,0.78,0.3706712864635556,Media,Baja,Baja,Single,Muy_Alta,Baja,Medical,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+38,2,1,1,2592,5,13,80,3,13,3,11,3,8,78,0.49,0.4573790956185283,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Human Resources,Universitaria,Human Resources,Travel_Frequently,Human Resources,Yes
+36,2,1,2,3886,1,21,80,0,10,2,10,0,8,79,0.45,0.5695217454919066,Media,Media,Media,Single,Muy_Alta,Muy_Alta,Human Resources,Primaria,Human Resources,Travel_Frequently,Human Resources,Yes
+39,3,1,2,6389,9,15,80,1,12,3,8,3,6,80,0.29,0.5553094650396218,Baja,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Human Resources,Primaria,Human Resources,Travel_Rarely,Human Resources,Yes
+31,18,1,1,2956,0,17,80,0,2,4,1,0,0,81,0.62,0.5509551263382959,Muy_Alta,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Human Resources,Primaria,Human Resources,Travel_Rarely,Human Resources,Yes
+31,2,1,2,6410,3,12,80,0,9,1,2,1,0,82,0.39,0.6093995414176566,Baja,Media,Media,Married,Muy_Alta,Muy_Alta,Human Resources,Secundaria,Human Resources,Travel_Rarely,Human Resources,Yes
+39,2,1,2,5204,8,11,80,2,13,2,5,0,4,83,0.24,0.4888214845351398,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Life Sciences,Secundaria,Human Resources,Travel_Rarely,Human Resources,Yes
+25,2,1,1,2187,4,14,80,0,6,3,2,1,2,84,0.59,0.535166748266883,Baja,Baja,Baja,Married,Muy_Alta,Baja,Human Resources,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+30,9,1,2,6347,0,19,80,0,12,2,11,4,7,85,0.32,0.4672943902090791,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Human Resources,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+44,1,1,2,5743,4,11,80,0,14,3,10,0,2,86,0.47,0.5456540635339264,Baja,Baja,Baja,Married,Muy_Alta,Baja,Human Resources,Universitaria,Human Resources,Travel_Frequently,Human Resources,Yes
+36,13,1,1,2143,4,13,80,1,8,2,5,0,4,87,0.49,0.5159212218616657,Baja,Baja,Baja,Married,Muy_Alta,Media,Human Resources,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+34,23,1,3,9950,9,15,80,3,11,2,3,0,2,88,0.57,0.5876906954296746,Media,Baja,Baja,Married,Muy_Alta,Baja,Human Resources,Universitaria,Human Resources,Travel_Frequently,Human Resources,Yes
+46,1,1,1,3423,6,12,80,0,10,3,7,5,7,89,0.37,0.4603290969858746,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+42,2,1,1,2696,0,11,80,1,4,5,3,1,0,90,0.46,0.011267795327577,Baja,Baja,Baja,Married,Muy_Alta,Baja,Technical Degree,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+24,22,1,1,1555,1,11,80,1,1,2,1,0,0,91,0.73,0.4989506243617208,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Human Resources,Primaria,Human Resources,Travel_Rarely,Human Resources,Yes
+59,6,1,1,2267,8,17,80,0,7,2,2,2,2,92,0.67,0.3699221139755648,Media,Baja,Baja,Married,Muy_Alta,Muy_Alta,Medical,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+24,10,1,1,2145,0,14,80,1,3,2,2,2,1,93,0.7,0.4422673935757191,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Medical,Universitaria,Human Resources,Travel_Frequently,Human Resources,Yes
+42,2,1,2,6272,7,16,80,1,10,3,4,0,3,94,0.35,0.3507688011890684,Muy_Alta,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Medical,Primaria,Human Resources,Travel_Frequently,Human Resources,Yes
+29,13,1,1,2335,4,15,80,3,4,3,2,2,0,95,0.71,0.592483947452385,Baja,Media,Media,Married,Muy_Alta,Muy_Alta,Human Resources,Secundaria,Human Resources,Travel_Rarely,Human Resources,Yes
+44,1,1,1,3195,4,18,80,3,8,2,2,2,2,96,0.63,0.4598871444956787,Baja,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+38,1,1,1,2991,0,11,80,1,7,2,6,1,2,97,0.41,0.3451691594689948,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Other,Universitaria,Human Resources,Travel_Frequently,Human Resources,Yes
+28,8,1,1,4936,1,13,80,1,6,6,5,0,4,98,0.45,0.3756444973793686,Media,Media,Media,Married,Muy_Alta,Muy_Alta,Medical,Secundaria,Human Resources,Travel_Rarely,Human Resources,Yes
+26,17,1,1,2741,0,11,80,1,8,2,7,1,0,99,0.62,0.5658701765246938,Media,Baja,Baja,Married,Muy_Alta,Media,Life Sciences,Universitaria,Human Resources,Travel_Frequently,Human Resources,Yes
+36,8,1,1,2342,0,21,80,0,6,3,5,0,3,100,0.56,0.5851663961441661,Baja,Media,Media,Married,Muy_Alta,Baja,Life Sciences,Secundaria,Human Resources,Travel_Rarely,Human Resources,Yes
+30,1,1,1,2064,0,21,80,1,6,3,5,1,3,101,0.44,0.4941458901113261,Baja,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Human Resources,Travel_Rarely,Human Resources,Yes
+56,8,1,5,19717,6,14,80,0,36,4,7,7,7,102,0.41,0.0,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Universitaria,Human Resources,Travel_Rarely,Talent Manager,Yes
+47,14,1,2,4591,3,17,80,1,11,4,5,1,2,103,0.47,0.5576624206212186,Baja,Baja,Baja,Married,Muy_Alta,Baja,Medical,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+29,3,1,2,5561,1,14,80,1,6,5,6,1,2,104,0.4,0.5178616933414465,Media,Baja,Baja,Married,Muy_Alta,Baja,Medical,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+35,10,1,3,10306,9,17,80,0,15,3,13,6,0,105,0.48,0.7318141173261049,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Medical,Secundaria,Sales,Travel_Rarely,Sales Executive,Yes
+59,25,1,3,7637,7,11,80,0,28,3,21,7,9,106,0.61,0.7281863650345922,Baja,Baja,Baja,Single,Muy_Alta,Muy_Alta,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+41,10,1,2,6230,7,14,80,0,16,3,14,1,10,107,0.33,0.6326082405929357,Muy_Alta,Baja,Baja,Single,Muy_Alta,Muy_Alta,Life Sciences,Universitaria,Sales,Travel_Frequently,Sales Executive,Yes
+30,7,1,2,4779,7,14,80,2,8,3,3,0,2,108,0.32,0.5640129891463539,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Marketing,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+34,3,1,2,6029,5,12,80,0,6,3,2,2,2,109,0.67,0.6740932887812445,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Primaria,Sales,Travel_Rarely,Sales Executive,Yes
+43,4,1,3,10231,3,14,80,0,23,3,21,15,17,110,0.44,0.5242077148401147,Muy_Alta,Media,Media,Single,Muy_Alta,Muy_Alta,Marketing,Secundaria,Sales,Travel_Rarely,Sales Executive,Yes
+41,10,1,2,6151,1,13,80,0,19,4,19,11,9,111,0.72,0.5518718698541224,Baja,Baja,Baja,Single,Muy_Alta,Baja,Medical,Primaria,Sales,Travel_Frequently,Sales Executive,Yes
+37,9,1,3,8834,1,13,80,1,9,6,9,7,7,112,0.46,0.5397077281470035,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Medical,Universitaria,Sales,Travel_Frequently,Sales Executive,Yes
+34,9,1,2,5714,1,20,80,0,6,3,6,1,3,113,0.38,0.7772566834681472,Media,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Primaria,Sales,Travel_Rarely,Sales Executive,Yes
+41,23,1,3,7082,3,16,80,0,21,2,2,0,2,114,0.61,0.671601478264928,Muy_Alta,Baja,Baja,Single,Muy_Alta,Muy_Alta,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+41,3,1,2,8938,2,11,80,1,14,5,5,0,4,115,0.26,0.7341262263695455,Baja,Media,Media,Married,Muy_Alta,Baja,Life Sciences,Secundaria,Sales,Travel_Rarely,Sales Executive,Yes
+45,9,1,3,10761,4,12,80,1,18,2,5,0,2,116,0.33,0.5348687826693344,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Marketing,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+36,11,1,2,6652,4,13,80,1,8,2,6,0,0,117,0.36,0.626209649944524,Media,Media,Media,Married,Muy_Alta,Baja,Marketing,Secundaria,Sales,Travel_Rarely,Sales Executive,Yes
+37,1,1,3,10609,5,11,80,0,17,2,14,11,7,118,0.45,0.8160941405173608,Baja,Media,Media,Married,Muy_Alta,Baja,Life Sciences,Secundaria,Sales,Travel_Rarely,Sales Executive,Yes
+37,19,1,3,7642,1,13,80,0,10,2,10,0,9,119,0.67,0.5294409044208767,Baja,Baja,Baja,Single,Muy_Alta,Muy_Alta,Medical,Universitaria,Sales,Travel_Frequently,Sales Executive,Yes
+53,8,1,4,11836,5,14,80,1,28,3,2,2,2,120,0.42,0.563359659850509,Baja,Baja,Baja,Married,Muy_Alta,Baja,Marketing,Universitaria,Sales,Travel_Rarely,Sales Executive,Yes
+50,12,1,3,9208,4,11,80,0,16,3,2,2,1,121,0.62,0.6080621599125114,Baja,Baja,Baja,Single,Muy_Alta,Muy_Alta,Marketing,Universitaria,Sales,Travel_Frequently,Sales Executive,Yes
+46,5,1,2,5772,4,21,80,0,14,4,9,0,8,122,0.67,0.5949404717061413,Baja,Baja,Baja,Single,Muy_Alta,Baja,Marketing,Universitaria,Sales,Travel_Frequently,Sales Executive,Yes
+53,2,1,4,14852,6,13,80,1,22,3,17,15,2,123,0.34,0.7101827695821284,Baja,Baja,Baja,Married,Muy_Alta,Baja,Medical,Universitaria,Sales,Travel_Rarely,CMO,Yes
+25,13,1,1,2096,1,11,80,0,7,1,7,0,6,124,0.65,0.7666260740887354,Media,Baja,Baja,Married,Muy_Alta,Baja,Medical,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+20,9,1,1,2728,1,11,80,0,2,3,2,0,2,125,0.83,0.8756233399751749,Muy_Alta,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+32,2,1,1,2827,1,12,80,3,1,3,1,0,0,126,0.54,0.86621582708798,Baja,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+31,2,1,1,3067,0,19,80,1,3,1,2,1,2,127,0.69,0.9294885905315636,Baja,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+29,10,1,1,2642,1,11,80,0,1,6,1,0,0,128,0.83,0.984611585440432,Baja,Baja,Baja,Single,Muy_Alta,Baja,Life Sciences,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+21,5,1,1,2380,1,11,80,0,2,6,2,1,2,129,0.84,0.7244655558171824,Baja,Baja,Baja,Single,Muy_Alta,Muy_Alta,Medical,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+33,8,1,1,2342,0,19,80,0,3,2,2,2,2,130,0.82,0.9441639592356946,Media,Media,Media,Single,Muy_Alta,Muy_Alta,Life Sciences,Secundaria,Sales,Travel_Frequently,Sales Representative,Yes
+29,20,1,1,2157,1,15,80,1,3,5,3,0,2,131,0.71,0.5032680628009971,Baja,Baja,Baja,Married,Muy_Alta,Media,Technical Degree,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+27,11,1,1,2534,8,14,80,1,5,4,1,0,0,132,0.58,0.8750498180147986,Baja,Muy_Alta,Muy_Alta,Married,Muy_Alta,Media,Medical,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+45,2,1,2,6632,0,13,80,0,9,3,8,3,1,133,0.56,0.4115037139190675,Media,Baja,Baja,Single,Muy_Alta,Baja,Technical Degree,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+24,24,1,1,2400,0,13,80,2,3,3,2,2,1,134,0.75,0.8968889053826232,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Medical,Primaria,Sales,Travel_Frequently,Sales Representative,Yes
+37,4,1,1,2793,4,17,80,1,13,2,9,5,8,135,0.48,0.846011479004245,Baja,Baja,Baja,Married,Muy_Alta,Baja,Marketing,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+36,2,1,1,2644,3,21,80,0,7,3,3,1,2,136,0.75,0.8939829461114357,Baja,Baja,Baja,Single,Muy_Alta,Muy_Alta,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+47,4,1,2,2976,3,19,80,0,5,3,0,0,0,137,0.75,0.8037013893659897,Media,Baja,Baja,Single,Muy_Alta,Baja,Medical,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+34,2,1,1,2231,6,18,80,1,6,3,4,1,2,138,0.7,0.7941753784571575,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Marketing,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+31,5,1,1,2789,1,11,80,1,2,5,2,2,2,139,0.69,0.7569018099695571,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Marketing,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+38,2,1,2,5405,2,20,80,2,20,4,4,0,3,140,0.52,0.6338119469870009,Media,Baja,Baja,Married,Muy_Alta,Baja,Marketing,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+32,1,1,1,2269,0,14,80,1,3,2,2,2,2,141,0.66,0.8037659112752636,Media,Media,Media,Married,Muy_Alta,Media,Medical,Secundaria,Sales,Travel_Rarely,Sales Representative,Yes
+52,29,1,1,3482,2,15,80,2,16,3,9,0,0,142,0.49,0.9664781782152744,Baja,Baja,Baja,Married,Muy_Alta,Media,Life Sciences,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+21,22,1,1,3447,1,11,80,0,3,2,3,1,2,143,0.78,0.53377770714019,Baja,Baja,Baja,Single,Muy_Alta,Baja,Technical Degree,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+21,9,1,1,2610,1,24,80,0,3,3,3,2,2,144,0.8,0.8749128740492598,Baja,Baja,Baja,Single,Muy_Alta,Baja,Medical,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+50,8,1,1,3875,7,15,80,1,4,2,2,2,2,145,0.66,0.8081038563586063,Muy_Alta,Baja,Baja,Married,Muy_Alta,Muy_Alta,Marketing,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+31,7,1,1,2329,3,15,80,0,13,2,7,5,2,146,0.59,0.993056734914256,Media,Media,Media,Married,Muy_Alta,Media,Life Sciences,Secundaria,Sales,Travel_Rarely,Sales Representative,Yes
+24,13,1,1,2033,1,13,80,1,1,2,1,0,0,147,0.81,0.8766638842022125,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Frequently,Sales Representative,Yes
+20,21,1,1,2678,1,17,80,0,2,2,2,2,2,148,0.86,0.857148438290311,Baja,Muy_Alta,Muy_Alta,Single,Muy_Alta,Muy_Alta,Marketing,Primaria,Sales,Travel_Rarely,Sales Representative,Yes
+35,2,1,1,2014,1,13,80,0,2,3,2,2,2,149,0.75,0.6914308408772295,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Marketing,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+38,1,1,1,2858,4,14,80,0,20,3,1,0,0,150,0.69,1.0,Baja,Media,Media,Single,Muy_Alta,Baja,Life Sciences,Secundaria,Sales,Travel_Rarely,Sales Representative,Yes
+34,10,1,1,2220,1,19,80,1,1,2,1,0,0,151,0.82,0.8705676936277716,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+35,7,1,1,2404,1,13,80,1,1,3,1,0,0,152,0.72,0.833723482504224,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+32,4,1,1,3931,2,11,80,1,6,5,4,1,2,153,0.53,0.8452496138024812,Baja,Baja,Baja,Married,Muy_Alta,Baja,Life Sciences,Universitaria,Sales,Travel_Rarely,Sales Representative,Yes
+31,5,1,2,9936,0,19,80,0,10,2,9,1,7,154,0.33,0.6650131492980934,Media,Baja,Baja,Single,Muy_Alta,Media,Finanzas,Universitaria,Human Resources,Travel_Frequently,CFO,Yes
+39,9,1,2,5151,1,25,80,1,10,3,10,7,9,155,0.13,0.660985059409899,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Finanzas,Universitaria,Human Resources,Travel_Rarely,CFO,Yes
+37,1,1,2,5993,1,18,80,1,7,2,7,0,7,156,0.16,0.7307089306569239,Baja,Media,Media,Married,Muy_Alta,Baja,Ingeniería Administrativa,Primaria,Human Resources,Travel_Rarely,CFO,Yes
+38,2,1,2,5980,6,12,80,0,17,2,15,4,12,157,0.66,0.6942985097584541,Baja,Muy_Alta,Muy_Alta,Single,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Primaria,Human Resources,Travel_Frequently,CFO,Yes
+28,1,1,1,3591,1,25,80,1,3,3,3,1,2,158,0.32,0.577077521309208,Baja,Baja,Baja,Married,Muy_Alta,Baja,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+43,7,1,1,2089,4,14,80,3,7,3,5,2,2,159,0.39,0.5169532673276535,Muy_Alta,Muy_Alta,Muy_Alta,Married,Muy_Alta,Muy_Alta,Finanzas,Primaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+32,2,1,2,4998,4,14,80,0,10,2,8,0,7,160,0.45,0.4814609680742636,Muy_Alta,Baja,Baja,Single,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+32,16,1,1,3919,1,22,80,0,10,5,10,6,7,161,0.65,0.5832971131190212,Media,Baja,Baja,Single,Muy_Alta,Media,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+26,6,1,1,2368,1,19,80,0,5,3,5,4,3,162,0.38,0.4385685375085856,Baja,Media,Media,Married,Muy_Alta,Baja,Other,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+33,25,1,1,2313,4,20,80,0,5,0,2,2,2,163,0.75,0.6942832756858446,Baja,Media,Media,Single,Muy_Alta,Media,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+37,9,1,1,2326,1,12,80,3,4,3,4,1,2,164,0.67,0.505526267678117,Media,Baja,Baja,Married,Muy_Alta,Baja,Finanzas,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+36,5,1,1,3419,9,14,80,1,6,3,1,0,0,165,0.7,0.5094522206009889,Media,Media,Media,Married,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+36,2,1,2,6962,4,22,80,1,15,2,1,0,0,166,0.38,0.3702453637386466,Muy_Alta,Baja,Baja,Married,Muy_Alta,Muy_Alta,Other,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+41,19,1,2,3072,2,16,80,2,17,2,1,0,0,167,0.5,0.5428710643373815,Baja,Baja,Baja,Married,Muy_Alta,Baja,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+38,6,1,2,5329,7,12,80,3,17,3,13,1,9,168,0.42,0.4307594153247381,Media,Baja,Baja,Married,Muy_Alta,Muy_Alta,Finanzas,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+22,19,1,1,2323,1,24,80,2,2,6,2,2,2,169,0.57,0.5530497694975655,Baja,Baja,Baja,Married,Muy_Alta,Baja,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+40,2,1,1,2001,2,14,80,3,20,2,5,0,2,170,0.45,0.4994527773269622,Baja,Baja,Baja,Married,Muy_Alta,Media,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+34,2,1,1,4381,1,11,80,0,6,3,6,1,3,171,0.32,0.5521647201793222,Baja,Media,Media,Single,Muy_Alta,Baja,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+30,7,1,1,2141,1,12,80,1,6,3,6,1,1,172,0.42,0.526225357931699,Media,Media,Media,Married,Muy_Alta,Media,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+35,25,1,1,2022,1,19,80,1,10,3,10,7,8,173,0.41,0.5513717546663165,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+39,19,1,2,3902,8,14,80,3,7,2,2,2,2,174,0.53,0.4216434892287002,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Other,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+56,8,1,1,4257,4,18,80,1,19,3,2,2,2,175,0.63,0.5422687860320099,Baja,Baja,Baja,Married,Muy_Alta,Baja,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+41,7,1,1,3376,1,13,80,0,10,3,10,0,8,176,0.31,0.5385599818688221,Media,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Finanzas,Primaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+42,10,1,1,2936,3,22,80,2,10,1,6,3,3,177,0.32,0.597628584787304,Baja,Baja,Baja,Married,Muy_Alta,Media,Finanzas,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+18,5,1,1,1051,1,15,80,0,0,2,0,0,0,178,0.76,0.5252252839681404,Media,Baja,Baja,Single,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Frequently,Financial Analyst,Yes
+28,1,1,1,1563,1,14,80,1,1,2,1,0,0,179,0.54,0.5498616449037949,Baja,Media,Media,Married,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+24,23,1,1,2725,1,11,80,2,6,3,6,1,4,180,0.51,0.5475823216856083,Media,Muy_Alta,Muy_Alta,Married,Muy_Alta,Media,Finanzas,Primaria,Human Resources,Travel_Rarely,Financial Analyst,Yes
+44,4,1,5,19190,1,14,80,2,26,4,25,14,13,181,0.31,0.5104357431178337,Baja,Muy_Alta,Muy_Alta,Married,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Primaria,Human Resources,Travel_Rarely,CFO,Yes
+34,10,1,1,2008,1,14,80,2,1,3,1,1,0,182,0.63,0.6471714246893169,Media,Baja,Baja,Married,Muy_Alta,Media,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Treasurer,Yes
+32,1,1,1,2332,6,20,80,0,5,3,3,0,2,183,0.59,0.6787771631592905,Baja,Media,Media,Married,Muy_Alta,Baja,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Frequently,Treasurer,Yes
+32,29,1,1,4025,9,12,80,0,10,2,8,7,7,184,0.49,0.8408846170510487,Muy_Alta,Baja,Baja,Single,Muy_Alta,Media,Finanzas,Primaria,Human Resources,Travel_Frequently,Treasurer,Yes
+42,3,1,2,5231,2,13,80,1,17,1,5,1,3,185,0.26,0.6417761606977207,Baja,Muy_Alta,Muy_Alta,Married,Muy_Alta,Media,Ingeniería Administrativa,Primaria,Human Resources,Travel_Rarely,Treasurer,Yes
+37,11,1,2,4777,5,15,80,0,15,2,1,0,0,186,0.64,0.736864021039088,Baja,Baja,Baja,Married,Muy_Alta,Baja,Finanzas,Primaria,Human Resources,Travel_Rarely,Coordinator,Yes
+44,15,1,3,7978,1,11,80,1,10,2,10,0,5,187,0.26,0.532859925777741,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Finanzas,Universitaria,Human Resources,Travel_Rarely,Coordinator,Yes
+38,10,1,2,9824,3,19,80,1,18,4,1,0,0,188,0.38,0.617193438707358,Baja,Baja,Baja,Married,Muy_Alta,Baja,Finanzas,Universitaria,Human Resources,Travel_Rarely,Coordinator,Yes
+48,6,1,2,4240,2,13,80,0,19,0,2,2,2,189,0.44,0.5827307304412174,Baja,Media,Media,Single,Muy_Alta,Muy_Alta,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Coordinator,Yes
+33,1,1,2,5488,1,13,80,1,6,2,6,1,2,190,0.32,0.4703338467178402,Baja,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Other,Primaria,Human Resources,Travel_Frequently,Coordinator,Yes
+53,24,1,3,7005,3,15,80,0,11,2,4,1,2,191,0.47,0.6255849182267198,Media,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Finanzas,Primaria,Human Resources,Travel_Rarely,Coordinator,Yes
+46,18,1,3,10527,5,11,80,0,28,3,2,1,2,192,0.51,0.658531515627782,Baja,Baja,Baja,Married,Muy_Alta,Muy_Alta,Finanzas,Universitaria,Human Resources,Travel_Frequently,Coordinator,Yes
+36,3,1,2,6842,6,20,80,1,13,3,5,0,4,193,0.17,0.5938610825035944,Muy_Alta,Muy_Alta,Muy_Alta,Married,Muy_Alta,Baja,Ingeniería Administrativa,Primaria,Human Resources,Travel_Rarely,Coordinator,Yes
+33,5,1,3,7119,4,15,80,1,9,2,3,1,2,194,0.32,0.6308487953485301,Muy_Alta,Media,Media,Married,Muy_Alta,Baja,Ingeniería Administrativa,Primaria,Human Resources,Travel_Rarely,Coordinator,Yes
+43,1,1,2,5562,4,13,80,1,12,2,5,2,2,195,0.24,0.5633165826508413,Muy_Alta,Baja,Baja,Married,Muy_Alta,Media,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Frequently,Coordinator,Yes
+55,2,1,5,19038,8,12,80,3,34,2,1,0,0,196,0.31,0.5339916632856566,Baja,Media,Media,Married,Muy_Alta,Media,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Director,Yes
+54,3,1,4,17779,3,14,80,0,36,2,10,0,9,197,0.35,0.4369572979736428,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Ingeniería Administrativa,Universitaria,Human Resources,Travel_Rarely,Financial Director,Yes
+37,7,1,3,13664,4,13,80,0,16,3,5,0,2,198,0.44,0.6202752509358204,Baja,Baja,Baja,Single,Muy_Alta,Baja,Finanzas,Universitaria,Human Resources,Travel_Rarely,Financial Director,Yes
+54,2,1,3,13549,9,12,80,1,16,5,4,0,3,199,0.33,0.6592105404960601,Baja,Baja,Baja,Married,Muy_Alta,Baja,Finanzas,Primaria,Human Resources,Travel_Rarely,Financial Director,Yes
+46,15,1,5,19081,5,11,80,1,25,2,4,0,3,200,0.3,0.573854059082882,Muy_Alta,Baja,Baja,Married,Muy_Alta,Baja,Ingeniería Administrativa,Primaria,Human Resources,Travel_Rarely,Financial Director,Yes
